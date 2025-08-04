@@ -9,6 +9,7 @@ services:
       - NACOS_AUTH_IDENTITY_VALUE=security
       - NACOS_AUTH_TOKEN=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=
     volumes:
+      - ./nacos_data:/home/nacos/data
       - ./standalone-logs/:/home/nacos/logs
     ports:
       - "8080:8080"
@@ -39,9 +40,8 @@ services:
   mcp-router:
     image: nacos/nacos-mcp-router:latest
     container_name: nacos-mcp-router
-    # for host networking (same as --network host)
-    network_mode: host
-    # map your env-vars through Compose
+    ports:
+      - 8000:8000
     environment:
       - NACOS_ADDR=nacos:8848
       - NACOS_USERNAME=${NACOS_USERNAME}

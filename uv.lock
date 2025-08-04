@@ -8,6 +8,19 @@ resolution-markers = [
 ]
 
 [[package]]
+name = "acp-mcp"
+version = "0.4.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "acp-sdk" },
+    { name = "mcp" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/f9/d6/3c2ea4b36f880d15205a5b775915178a56deb49a34c2b8410edc0fa519a9/acp_mcp-0.4.2.tar.gz", hash = "sha256:ea41fbbdf8ebbb25d709641e8cec52dd7c8a1f4634c8967b798ff8ccbf3e3199", size = 171844, upload-time = "2025-05-08T07:52:01.124Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/49/4b/8d74099e28612833c0dee95b1bc3babab353d87cff1fb4a8854a997966c0/acp_mcp-0.4.2-py3-none-any.whl", hash = "sha256:1e03dece47224c224cf7713f859eb379305a330032e5a916fcedec79dcca94a8", size = 9875, upload-time = "2025-05-08T07:51:59.88Z" },
+]
+
+[[package]]
 name = "acp-sdk"
 version = "1.0.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2190,6 +2203,7 @@ name = "nacos-playground"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "acp-mcp" },
     { name = "acp-sdk" },
     { name = "ipykernel" },
     { name = "jupyter" },
@@ -2206,6 +2220,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "acp-mcp", specifier = ">=0.4.2" },
     { name = "acp-sdk", specifier = ">=1.0.1" },
     { name = "ipykernel", specifier = ">=6.30.0" },
     { name = "jupyter", specifier = ">=1.1.1" },

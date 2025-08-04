@@ -58,4 +58,4 @@ async def search_agent(
         yield MessagePart(content=output.get("format_response", {}).get("final_response", ""))
         
 if __name__ == "__main__":
-    server.run(port=8000)
+    server.run(port=8008)
