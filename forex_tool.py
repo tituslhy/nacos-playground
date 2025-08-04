@@ -2,12 +2,16 @@ from nacos_mcp_wrapper.server.nacos_mcp import NacosMCP
 from nacos_mcp_wrapper.server.nacos_settings import NacosSettings
 
 import httpx
+import os
+from dotenv import load_dotenv, find_dotenv
+
+_ = load_dotenv(find_dotenv())
 
 nacos_settings = NacosSettings()
 nacos_settings.SERVER_ADDR = "127.0.0.1:8848" # <nacos_server_addr> e.g. 127.0.0.1:8848
-nacos_settings.USERNAME=""
-nacos_settings.PASSWORD=""
-mcp = NacosMCP("nacos-mcp-python", nacos_settings=nacos_settings, port=18001)
+nacos_settings.USERNAME=os.environ["NACOS_USERNAME"]
+nacos_settings.PASSWORD=os.environ["NACOS_PASSWORD"]
+mcp = NacosMCP("forex-tool", nacos_settings=nacos_settings, port=18001)
 
 @mcp.tool()
 async def get_exchange_rate(
@@ -41,5 +45,10 @@ async def get_exchange_rate(
         return {"error": "Invalid JSON response from API."}
 
 if __name__ == "__main__":
-    print("🚀Starting server... ")
-    mcp.run(transport="sse")
+    try:
+        print("🚀Starting server... ")
+        mcp.run(transport="sse")
+        # mcp.run(transport="stdio")
+        # mcp.run(transport="streamable-http")
+    except Exception as e:
+        print(f"Runtime error: {e}")
