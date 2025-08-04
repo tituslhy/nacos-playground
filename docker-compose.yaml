@@ -1,4 +1,3 @@
-version: "2"
 services:
   nacos:
     image: nacos/nacos-server:${NACOS_VERSION}
@@ -15,6 +14,7 @@ services:
       - "8080:8080"
       - "8848:8848"
       - "9848:9848"
+
   prometheus:
     container_name: prometheus
     image: prom/prometheus:latest
@@ -25,9 +25,25 @@ services:
     depends_on:
       - nacos
     restart: on-failure
+
   grafana:
     container_name: grafana
     image: grafana/grafana:latest
     ports:
-      - 3000:3000
+      - "3000:3000"
+    restart: on-failure
+
+  mcp-router:
+    image: nacos/nacos-mcp-router:latest
+    container_name: nacos-mcp-router
+    # for host networking (same as --network host)
+    network_mode: host
+    # map your env-vars through Compose
+    environment:
+      - NACOS_ADDR=nacos:8848
+      - NACOS_USERNAME=${NACOS_USERNAME}
+      - NACOS_PASSWORD=${NACOS_PASSWORD}
+      - TRANSPORT_TYPE=${TRANSPORT_TYPE}
+    depends_on:
+      - nacos
     restart: on-failure
