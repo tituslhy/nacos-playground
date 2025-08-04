@@ -32,6 +32,9 @@ services:
     ports:
       - "3000:3000"
     restart: on-failure
+    environment:
+      - GF_SECURITY_ADMIN_USER=${NACOS_USERNAME}
+      - GF_SECURITY_ADMIN_PASSWORD=${NACOS_PASSWORD}
 
   mcp-router:
     image: nacos/nacos-mcp-router:latest

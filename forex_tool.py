@@ -26,7 +26,7 @@ async def get_exchange_rate(
     try:
         async with httpx.AsyncClient() as client:
             response = await client.get(
-                f"https://api.frankfurter.app/latest",
+                "https://api.frankfurter.app/latest",
                 params={"from": currency_from, "to": currency_to},
             )
             response.raise_for_status()
