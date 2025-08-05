@@ -5,7 +5,11 @@ Nacos Registry Playground
 This repository uses the uv package installer.
 
 To create a virtual environment with the dependencies installed, simply type in your terminal:
-```uv sync```
+```
+uv sync
+```
 
 To spin up your Nacos registry, run:
-```docker compose up -d```
+```
+docker compose up -d
+```
