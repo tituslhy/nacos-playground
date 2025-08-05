@@ -51,7 +51,7 @@ async def search_agent(
         {"messages": [{"role": "user", "content": query}]},
         stream_mode="updates"
     ):
-        for value in chunk.items:
+        for value in chunk.items():
             yield {'update': value}
         
         output = chunk
