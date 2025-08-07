@@ -1,6 +1,10 @@
 # nacos-playground
 Nacos Registry Playground
 
+<p align="center">
+    <img src="./images/0. registry.webp">
+</p>
+
 ## Setup
 This repository uses the uv package installer.
 
