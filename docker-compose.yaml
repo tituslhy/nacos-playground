@@ -34,7 +34,7 @@ services:
       - "3000:3000"
     restart: on-failure
     environment:
-      - GF_SECURITY_ADMIN_USER=${NACOS_USERNAME}
+      - GF_SECURITY_ADMIN_USER=nacos
       - GF_SECURITY_ADMIN_PASSWORD=${NACOS_PASSWORD}
 
   mcp-router:
@@ -44,7 +44,7 @@ services:
       - 8000:8000
     environment:
       - NACOS_ADDR=nacos:8848
-      - NACOS_USERNAME=${NACOS_USERNAME}
+      - NACOS_USERNAME=nacos
       - NACOS_PASSWORD=${NACOS_PASSWORD}
       - TRANSPORT_TYPE=${TRANSPORT_TYPE}
     depends_on:
