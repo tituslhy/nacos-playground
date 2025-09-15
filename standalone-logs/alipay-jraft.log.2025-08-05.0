@@ -1,0 +1,1288 @@
+2025-08-05 07:02:01,565 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 1 to 2, cost 1 ms.
+
+2025-08-05 07:03:20,040 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 1 to 2, cost 0 ms.
+
+2025-08-05 07:05:15,110 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log from log index 1 to 2, cost 0 ms.
+
+2025-08-05 07:06:09,802 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 1 to 4, cost 0 ms.
+
+2025-08-05 07:07:43,091 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 1 to 3, cost 1 ms.
+
+2025-08-05 21:49:04,085 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 2 to 2, cost 1 ms.
+
+2025-08-05 21:50:22,565 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 2 to 2, cost 0 ms.
+
+2025-08-05 21:52:17,636 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log from log index 2 to 2, cost 1 ms.
+
+2025-08-05 21:53:12,327 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 4 to 4, cost 0 ms.
+
+2025-08-05 21:54:45,610 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 3 to 3, cost 1 ms.
+
+2025-08-05 22:19:04,091 INFO Deleting snapshot /home/nacos/data/protocol/raft/naming_instance_metadata/snapshot/snapshot_4.
+
+2025-08-05 22:19:04,092 INFO Renaming /home/nacos/data/protocol/raft/naming_instance_metadata/snapshot/temp to /home/nacos/data/protocol/raft/naming_instance_metadata/snapshot/snapshot_4.
+
+2025-08-05 22:19:04,093 INFO Deleting snapshot /home/nacos/data/protocol/raft/naming_instance_metadata/snapshot/snapshot_1.
+
+2025-08-05 22:19:04,099 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 2 to 2, cost 0 ms.
+
+2025-08-05 22:20:22,559 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 2 to 2, cost 1 ms.
+
+2025-08-05 22:22:17,629 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log from log index 2 to 2, cost 1 ms.
+
+2025-08-05 22:23:12,317 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 4 to 4, cost 1 ms.
+
+2025-08-05 22:24:45,612 INFO Deleting snapshot /home/nacos/data/protocol/raft/naming_service_metadata/snapshot/snapshot_3.
+
+2025-08-05 22:24:45,612 INFO Renaming /home/nacos/data/protocol/raft/naming_service_metadata/snapshot/temp to /home/nacos/data/protocol/raft/naming_service_metadata/snapshot/snapshot_3.
+
+2025-08-05 22:24:45,613 INFO Deleting snapshot /home/nacos/data/protocol/raft/naming_service_metadata/snapshot/snapshot_2.
+
+2025-08-05 22:24:45,617 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 3 to 3, cost 0 ms.
+
+2025-08-05 22:26:42,591 INFO Node <lock_acquire_service_v2/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_LEADER.
+
+2025-08-05 22:26:42,591 INFO Fail to find the next candidate, group lock_acquire_service_v2.
+
+2025-08-05 22:26:42,591 INFO onLeaderStop: status=Status[ESHUTDOWN<1007>: Raft node is going to quit.].
+
+2025-08-05 22:26:42,593 INFO Save raft meta, path=/home/nacos/data/protocol/raft/lock_acquire_service_v2/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:26:42,593 INFO Shutting down FSMCaller...
+
+2025-08-05 22:26:42,593 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@11736bce[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,593 INFO onShutdown.
+
+2025-08-05 22:26:42,594 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@3044b572[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,594 INFO The number of active nodes decrement to 4.
+
+2025-08-05 22:26:42,594 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<lock_acquire_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,594 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<lock_acquire_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,594 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<lock_acquire_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,594 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<lock_acquire_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,594 INFO Node <lock_acquire_service_v2/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:26:42,594 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:26:42,594 INFO Node <naming_service_metadata/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_LEADER.
+
+2025-08-05 22:26:42,594 INFO Fail to find the next candidate, group naming_service_metadata.
+
+2025-08-05 22:26:42,594 INFO onLeaderStop: status=Status[ESHUTDOWN<1007>: Raft node is going to quit.].
+
+2025-08-05 22:26:42,596 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log.
+
+2025-08-05 22:26:42,596 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_service_metadata/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:26:42,596 INFO Shutting down FSMCaller...
+
+2025-08-05 22:26:42,596 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@6ccfb177[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,596 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@793566b9[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,596 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_service_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,596 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_service_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,596 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_service_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,596 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_service_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,596 INFO The number of active nodes decrement to 3.
+
+2025-08-05 22:26:42,596 INFO onShutdown.
+
+2025-08-05 22:26:42,596 INFO Node <naming_service_metadata/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:26:42,596 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:26:42,596 INFO Node <naming_persistent_service/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_LEADER.
+
+2025-08-05 22:26:42,597 INFO Fail to find the next candidate, group naming_persistent_service.
+
+2025-08-05 22:26:42,597 INFO onLeaderStop: status=Status[ESHUTDOWN<1007>: Raft node is going to quit.].
+
+2025-08-05 22:26:42,598 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:26:42,598 INFO Shutting down FSMCaller...
+
+2025-08-05 22:26:42,598 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@4a36ad8a[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,598 INFO onShutdown.
+
+2025-08-05 22:26:42,598 INFO The number of active nodes decrement to 2.
+
+2025-08-05 22:26:42,598 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_service_metadata/log.
+
+2025-08-05 22:26:42,598 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@5be3e9b2[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,598 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_persistent_service/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,599 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_persistent_service/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,599 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_persistent_service/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,599 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_persistent_service/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,599 INFO Node <naming_persistent_service/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:26:42,599 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:26:42,599 INFO Node <naming_instance_metadata/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_LEADER.
+
+2025-08-05 22:26:42,599 INFO Fail to find the next candidate, group naming_instance_metadata.
+
+2025-08-05 22:26:42,599 INFO onLeaderStop: status=Status[ESHUTDOWN<1007>: Raft node is going to quit.].
+
+2025-08-05 22:26:42,600 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_instance_metadata/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:26:42,600 INFO Shutting down FSMCaller...
+
+2025-08-05 22:26:42,600 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@79476716[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,600 INFO onShutdown.
+
+2025-08-05 22:26:42,600 INFO The number of active nodes decrement to 1.
+
+2025-08-05 22:26:42,600 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@6e2cf49[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,601 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_instance_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,601 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_instance_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,601 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_instance_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,601 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_instance_metadata/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,601 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_persistent_service/log.
+
+2025-08-05 22:26:42,601 INFO Node <naming_instance_metadata/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:26:42,601 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:26:42,601 INFO Node <naming_persistent_service_v2/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_LEADER.
+
+2025-08-05 22:26:42,601 INFO Fail to find the next candidate, group naming_persistent_service_v2.
+
+2025-08-05 22:26:42,601 INFO onLeaderStop: status=Status[ESHUTDOWN<1007>: Raft node is going to quit.].
+
+2025-08-05 22:26:42,603 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_instance_metadata/log.
+
+2025-08-05 22:26:42,603 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service_v2/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:26:42,603 INFO Shutting down FSMCaller...
+
+2025-08-05 22:26:42,603 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@41dcc342[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,603 INFO onShutdown.
+
+2025-08-05 22:26:42,603 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@3e163b8[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:26:42,603 INFO The number of active nodes decrement to 0.
+
+2025-08-05 22:26:42,604 INFO ThreadPool is terminated: JRaft-Global-ElectionTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@4bc427f0[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 5].
+
+2025-08-05 22:26:42,604 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_persistent_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,604 INFO ThreadPool is terminated: JRaft-Global-VoteTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@38f8d31b[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 5].
+
+2025-08-05 22:26:42,604 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_persistent_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,605 INFO ThreadPool is terminated: JRaft-Global-StepDownTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@4cd1a3d0[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 14155].
+
+2025-08-05 22:26:42,606 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_persistent_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,606 INFO ThreadPool is terminated: JRaft-Global-SnapshotTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@5df924aa[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 20].
+
+2025-08-05 22:26:42,606 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_persistent_service_v2/dd899bcf4ce0:7848>'}.
+
+2025-08-05 22:26:42,607 INFO Node <naming_persistent_service_v2/dd899bcf4ce0:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:26:42,607 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:26:42,607 INFO Shutdown managed channel: dd899bcf4ce0:7848, ManagedChannelOrphanWrapper{delegate=ManagedChannelImpl{logId=10, target=dd899bcf4ce0:7848}}.
+
+2025-08-05 22:26:42,607 INFO The channel dd899bcf4ce0:7848 is in state: SHUTDOWN.
+
+2025-08-05 22:26:42,607 WARN This channel dd899bcf4ce0:7848 has started shutting down. Any new RPCs should fail immediately.
+
+2025-08-05 22:26:42,608 INFO Connection disconnected: /172.18.0.3:33292
+
+2025-08-05 22:26:42,610 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@61af0d9c[Shutting down, pool size = 16, active threads = 0, queued tasks = 0, completed tasks = 9340].
+
+2025-08-05 22:26:42,610 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log.
+
+2025-08-05 22:26:54,495 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2025-08-05 22:26:54,525 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2025-08-05 22:26:54,598 INFO SPI service [com.alipay.sofa.jraft.util.JRaftSignalHandler - com.alipay.sofa.jraft.NodeDescribeSignalHandler] loading.
+
+2025-08-05 22:26:54,598 INFO SPI service [com.alipay.sofa.jraft.util.JRaftSignalHandler - com.alipay.sofa.jraft.NodeMetricsSignalHandler] loading.
+
+2025-08-05 22:26:54,599 INFO SPI service [com.alipay.sofa.jraft.util.JRaftSignalHandler - com.alipay.sofa.jraft.ThreadPoolMetricsSignalHandler] loading.
+
+2025-08-05 22:26:54,600 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2025-08-05 22:26:54,602 INFO The number of active nodes increment to 1.
+
+2025-08-05 22:26:54,707 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 0 to 4, cost 1 ms.
+
+2025-08-05 22:26:54,710 INFO Starts FSMCaller successfully.
+
+2025-08-05 22:26:54,713 INFO Loading snapshot, meta=last_included_index: 3
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+.
+
+2025-08-05 22:26:54,746 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> onSnapshotLoadDone, last_included_index: 3
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+
+
+2025-08-05 22:26:54,746 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> target priority value has changed from: 0, to: -1.
+
+2025-08-05 22:26:54,747 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 4 to 4, cost 1 ms.
+
+2025-08-05 22:26:54,751 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> init, term=1, lastLogId=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=.
+
+2025-08-05 22:26:54,752 WARN RPC server is not started in RaftGroupService.
+
+2025-08-05 22:26:54,752 INFO Start the RaftGroupService successfully.
+
+2025-08-05 22:26:54,763 INFO The number of active nodes increment to 2.
+
+2025-08-05 22:26:54,792 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 0 to 2, cost 1 ms.
+
+2025-08-05 22:26:54,793 INFO Starts FSMCaller successfully.
+
+2025-08-05 22:26:54,795 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+.
+
+2025-08-05 22:26:54,796 INFO Node <naming_persistent_service/9b72d0b73530:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+
+
+2025-08-05 22:26:54,796 INFO Node <naming_persistent_service/9b72d0b73530:7848> target priority value has changed from: 0, to: -1.
+
+2025-08-05 22:26:54,797 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 2 to 2, cost 1 ms.
+
+2025-08-05 22:26:54,798 INFO Node <naming_persistent_service/9b72d0b73530:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=.
+
+2025-08-05 22:26:54,798 WARN RPC server is not started in RaftGroupService.
+
+2025-08-05 22:26:54,798 INFO Start the RaftGroupService successfully.
+
+2025-08-05 22:26:54,801 INFO Creating new channel to: 9b72d0b73530:7848.
+
+2025-08-05 22:26:54,808 INFO The channel 9b72d0b73530:7848 is in state: CONNECTING.
+
+2025-08-05 22:26:54,812 INFO The number of active nodes increment to 3.
+
+2025-08-05 22:26:54,827 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 0 to 2, cost 1 ms.
+
+2025-08-05 22:26:54,828 INFO Starts FSMCaller successfully.
+
+2025-08-05 22:26:54,829 INFO Loading snapshot, meta=last_included_index: 4
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+.
+
+2025-08-05 22:26:54,831 INFO Node <naming_instance_metadata/9b72d0b73530:7848> onSnapshotLoadDone, last_included_index: 4
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+
+
+2025-08-05 22:26:54,831 INFO Node <naming_instance_metadata/9b72d0b73530:7848> target priority value has changed from: 0, to: -1.
+
+2025-08-05 22:26:54,832 INFO Node <naming_instance_metadata/9b72d0b73530:7848> init, term=1, lastLogId=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=.
+
+2025-08-05 22:26:54,832 WARN RPC server is not started in RaftGroupService.
+
+2025-08-05 22:26:54,832 INFO Start the RaftGroupService successfully.
+
+2025-08-05 22:26:54,834 INFO The number of active nodes increment to 4.
+
+2025-08-05 22:26:54,845 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 0 to 3, cost 1 ms.
+
+2025-08-05 22:26:54,846 INFO Starts FSMCaller successfully.
+
+2025-08-05 22:26:54,847 INFO Loading snapshot, meta=last_included_index: 3
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+.
+
+2025-08-05 22:26:54,848 INFO Node <naming_service_metadata/9b72d0b73530:7848> onSnapshotLoadDone, last_included_index: 3
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+
+
+2025-08-05 22:26:54,848 INFO Node <naming_service_metadata/9b72d0b73530:7848> target priority value has changed from: 0, to: -1.
+
+2025-08-05 22:26:54,849 INFO Node <naming_service_metadata/9b72d0b73530:7848> init, term=1, lastLogId=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=.
+
+2025-08-05 22:26:54,849 WARN RPC server is not started in RaftGroupService.
+
+2025-08-05 22:26:54,849 INFO Start the RaftGroupService successfully.
+
+2025-08-05 22:26:54,897 INFO The number of active nodes increment to 5.
+
+2025-08-05 22:26:54,903 INFO The channel 9b72d0b73530:7848 is in state: READY.
+
+2025-08-05 22:26:54,904 INFO The channel 9b72d0b73530:7848 has successfully established.
+
+2025-08-05 22:26:54,920 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log from log index 0 to 2, cost 0 ms.
+
+2025-08-05 22:26:54,920 INFO Starts FSMCaller successfully.
+
+2025-08-05 22:26:54,921 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+.
+
+2025-08-05 22:26:54,923 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "dd899bcf4ce0:7848"
+
+
+2025-08-05 22:26:54,923 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> target priority value has changed from: 0, to: -1.
+
+2025-08-05 22:26:54,923 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log from log index 2 to 2, cost 0 ms.
+
+2025-08-05 22:26:54,923 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=.
+
+2025-08-05 22:26:54,923 WARN RPC server is not started in RaftGroupService.
+
+2025-08-05 22:26:54,923 INFO Start the RaftGroupService successfully.
+
+2025-08-05 22:26:59,972 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:26:59,973 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:00,226 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:00,226 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:00,273 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:00,273 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:00,323 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:00,323 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:00,601 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:00,601 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:05,546 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:05,546 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:05,546 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:05,546 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:05,754 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:05,754 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:05,830 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:05,831 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:06,190 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:06,190 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:10,581 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:10,582 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:10,741 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:10,742 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:10,918 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:10,919 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:11,381 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:11,382 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:11,383 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:11,383 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:16,075 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:16,075 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:16,222 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:16,222 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:16,321 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:16,322 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:17,102 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:17,102 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:17,277 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:17,277 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:21,397 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:21,398 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:21,456 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:21,457 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:22,085 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:22,086 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:22,993 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:22,993 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:23,178 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:23,178 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:27,139 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:27,140 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:27,288 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:27,288 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:27,997 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:27,998 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:28,312 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:28,312 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:28,631 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:28,631 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:32,633 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:32,634 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:32,987 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:32,987 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:33,941 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:33,941 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:34,021 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:34,021 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:34,037 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:34,037 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:38,034 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:38,034 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:38,948 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:38,948 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:39,087 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:39,087 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:39,327 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:39,327 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:39,584 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:39,584 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:43,931 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:43,931 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:44,095 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:44,096 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:44,332 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:44,333 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:44,927 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:44,928 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:45,291 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:45,292 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:49,217 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:49,218 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:49,637 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:49,638 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:49,670 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:49,671 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:50,369 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:50,369 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:50,566 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:50,567 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:54,674 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:54,675 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:54,952 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:54,953 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:55,378 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:55,379 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:56,033 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:56,033 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:56,105 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:56,105 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:27:59,987 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:27:59,988 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:00,283 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:00,283 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:00,543 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:00,544 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:01,581 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:01,582 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:02,011 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:02,012 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:05,114 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:05,115 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:05,590 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:05,591 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:06,375 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:06,376 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:07,007 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:07,008 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:07,467 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:07,468 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:10,872 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:10,872 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:11,224 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:11,224 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:12,076 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:12,076 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:12,493 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:12,494 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:12,830 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:12,830 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:15,912 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:15,913 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:16,608 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:16,608 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:17,787 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:17,787 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:17,844 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:17,845 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:17,846 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:17,847 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:21,774 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:21,775 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:21,874 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:21,874 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:23,318 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:23,319 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:23,467 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:23,467 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:23,663 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:23,663 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:26,932 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:26,933 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:27,013 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:27,013 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:28,557 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:28,558 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:28,890 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:28,891 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:29,354 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:29,355 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:32,208 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:32,209 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:32,655 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:32,655 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:34,135 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:34,136 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:34,753 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:34,754 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:34,844 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:34,845 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:37,971 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:37,971 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:38,512 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:38,513 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:39,210 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:39,210 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:40,537 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:40,537 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:40,577 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:40,578 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:43,034 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:43,035 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:44,072 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:44,073 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:44,544 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:44,545 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:46,243 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:46,243 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:46,385 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:46,385 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:48,834 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:48,835 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:49,859 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:49,860 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:50,014 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:50,015 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:51,552 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:51,552 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:51,837 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:51,837 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:54,077 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:54,078 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:55,160 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:55,160 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:55,249 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:55,250 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:57,278 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:57,279 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:57,349 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:57,349 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:28:59,580 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:28:59,581 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:00,269 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:00,269 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:00,366 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:00,366 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:03,160 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:03,161 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:03,229 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:03,229 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:04,951 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:04,952 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:05,717 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:05,717 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:05,835 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:05,835 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:08,275 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:08,276 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:08,677 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:08,677 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:10,423 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:10,424 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:11,413 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:11,413 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:11,566 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:11,567 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:14,117 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:14,117 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:14,129 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:14,130 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:15,766 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:15,767 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:16,771 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:16,772 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:17,097 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:17,098 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:20,017 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:20,017 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:20,066 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:20,066 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:21,707 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:21,708 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:22,331 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:22,331 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:23,046 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:23,046 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:25,485 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:25,486 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:25,986 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:25,987 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:27,466 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:27,466 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:27,978 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:27,978 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:28,971 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:28,972 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:31,135 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:31,135 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:31,213 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:31,214 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:32,870 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:32,870 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:33,110 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:33,110 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:34,802 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:34,803 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:36,335 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:36,335 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:36,863 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:36,864 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:38,504 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:38,504 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:38,771 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:38,771 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:40,346 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:40,347 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:41,800 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:41,801 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:42,664 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:42,665 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:44,137 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:44,138 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:44,745 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:44,745 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:45,409 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:45,409 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:47,643 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:47,644 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:48,163 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:48,164 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:49,994 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:49,995 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:50,099 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:50,100 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:51,367 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:51,368 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:53,211 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:53,212 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:53,445 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:53,446 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:55,602 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:55,603 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:55,938 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:55,939 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:56,474 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:56,475 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:58,835 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:58,836 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:29:58,891 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:29:58,891 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:01,225 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:01,226 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:01,354 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:01,354 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:02,443 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:02,444 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:04,246 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:04,246 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:04,522 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:04,522 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:06,748 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:06,748 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:06,748 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:06,748 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:07,749 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:07,750 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:09,646 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:09,646 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:09,857 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:09,858 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:11,856 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:11,857 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:12,150 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:12,151 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:13,390 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:13,391 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:15,150 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:15,150 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:15,605 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:15,605 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:17,305 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:17,306 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:17,662 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:17,662 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:19,232 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:19,232 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:20,382 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:20,382 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:21,465 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:21,466 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:22,650 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:22,651 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:23,145 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:23,146 WARN Node <lock_acquire_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:24,273 INFO Node <naming_persistent_service/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:24,273 WARN Node <naming_persistent_service/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=1, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:26,158 INFO Node <naming_instance_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:26,159 WARN Node <naming_instance_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=4, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:26,704 INFO Node <naming_service_metadata/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:26,704 WARN Node <naming_service_metadata/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:27,985 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> term 1 start preVote.
+
+2025-08-05 22:30:27,985 WARN Node <naming_persistent_service_v2/9b72d0b73530:7848> can't do preVote as it is not in conf <ConfigurationEntry [id=LogId [index=3, term=1], conf=dd899bcf4ce0:7848, oldConf=]>.
+
+2025-08-05 22:30:28,029 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_FOLLOWER.
+
+2025-08-05 22:30:28,032 INFO Save raft meta, path=/home/nacos/data/protocol/raft/lock_acquire_service_v2/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=3 ms
+
+2025-08-05 22:30:28,032 INFO Shutting down FSMCaller...
+
+2025-08-05 22:30:28,032 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@348231a[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,032 INFO onShutdown.
+
+2025-08-05 22:30:28,032 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@3b644684[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,032 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<lock_acquire_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,032 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<lock_acquire_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,032 INFO The number of active nodes decrement to 4.
+
+2025-08-05 22:30:28,032 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<lock_acquire_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,033 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<lock_acquire_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,033 INFO Node <lock_acquire_service_v2/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:30:28,033 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:30:28,033 INFO Node <naming_service_metadata/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_FOLLOWER.
+
+2025-08-05 22:30:28,034 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/lock_acquire_service_v2/log.
+
+2025-08-05 22:30:28,034 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_service_metadata/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:30:28,034 INFO Shutting down FSMCaller...
+
+2025-08-05 22:30:28,035 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@36789ffc[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,035 INFO onShutdown.
+
+2025-08-05 22:30:28,035 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@6a16856a[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,035 INFO The number of active nodes decrement to 3.
+
+2025-08-05 22:30:28,035 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_service_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,035 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_service_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,035 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_service_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,035 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_service_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,035 INFO Node <naming_service_metadata/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:30:28,035 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:30:28,035 INFO Node <naming_persistent_service/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_FOLLOWER.
+
+2025-08-05 22:30:28,037 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=2 ms
+
+2025-08-05 22:30:28,037 INFO Shutting down FSMCaller...
+
+2025-08-05 22:30:28,037 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@6622362b[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,037 INFO onShutdown.
+
+2025-08-05 22:30:28,037 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_service_metadata/log.
+
+2025-08-05 22:30:28,037 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@60be272f[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,037 INFO The number of active nodes decrement to 2.
+
+2025-08-05 22:30:28,037 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_persistent_service/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,037 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_persistent_service/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,037 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_persistent_service/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,037 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_persistent_service/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,037 INFO Node <naming_persistent_service/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:30:28,037 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:30:28,037 INFO Node <naming_instance_metadata/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_FOLLOWER.
+
+2025-08-05 22:30:28,038 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_instance_metadata/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:30:28,038 INFO Shutting down FSMCaller...
+
+2025-08-05 22:30:28,038 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@12cbd3bb[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,038 INFO onShutdown.
+
+2025-08-05 22:30:28,038 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@4ca8295d[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,038 INFO The number of active nodes decrement to 1.
+
+2025-08-05 22:30:28,038 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_persistent_service/log.
+
+2025-08-05 22:30:28,039 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_instance_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,039 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_instance_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,039 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_instance_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,039 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_instance_metadata/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,039 INFO Node <naming_instance_metadata/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:30:28,039 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:30:28,039 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_FOLLOWER.
+
+2025-08-05 22:30:28,040 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service_v2/meta-data, term=1, votedFor=dd899bcf4ce0:7848, cost time=1 ms
+
+2025-08-05 22:30:28,041 INFO Shutting down FSMCaller...
+
+2025-08-05 22:30:28,041 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_instance_metadata/log.
+
+2025-08-05 22:30:28,041 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@3bcccd8d[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,041 INFO onShutdown.
+
+2025-08-05 22:30:28,041 INFO The number of active nodes decrement to 0.
+
+2025-08-05 22:30:28,041 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@2ada1284[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,042 INFO ThreadPool is terminated: JRaft-Global-ElectionTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@150ba139[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 191].
+
+2025-08-05 22:30:28,042 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_persistent_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,042 INFO ThreadPool is terminated: JRaft-Global-VoteTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@4ce6071a[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,042 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_persistent_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,042 INFO ThreadPool is terminated: JRaft-Global-StepDownTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@2811afcb[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,042 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_persistent_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,042 INFO ThreadPool is terminated: JRaft-Global-SnapshotTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@2afeaa31[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2025-08-05 22:30:28,042 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_persistent_service_v2/9b72d0b73530:7848>'}.
+
+2025-08-05 22:30:28,042 INFO Node <naming_persistent_service_v2/9b72d0b73530:7848> shutdown, currTerm=1 state=STATE_SHUTTING.
+
+2025-08-05 22:30:28,042 INFO Stop the RaftGroupService successfully.
+
+2025-08-05 22:30:28,042 INFO Shutdown managed channel: 9b72d0b73530:7848, ManagedChannelOrphanWrapper{delegate=ManagedChannelImpl{logId=10, target=9b72d0b73530:7848}}.
+
+2025-08-05 22:30:28,043 INFO The channel 9b72d0b73530:7848 is in state: SHUTDOWN.
+
+2025-08-05 22:30:28,043 WARN This channel 9b72d0b73530:7848 has started shutting down. Any new RPCs should fail immediately.
+
+2025-08-05 22:30:28,044 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log.
+
+2025-08-05 22:30:28,044 INFO Connection disconnected: /172.18.0.3:47234
+
+2025-08-05 22:30:28,046 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@3ed57d9[Shutting down, pool size = 15, active threads = 0, queued tasks = 0, completed tasks = 1342].
+

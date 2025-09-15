@@ -1,7 +1,5 @@
 .DS_Store
 notebooks/nacos-data/
-nacos_data/
-standalone-logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

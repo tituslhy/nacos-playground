@@ -1,0 +1,100 @@
+2025-08-04 22:33:04,539 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2025-08-04 22:33:04,539 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2025-08-04 22:33:04,540 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2025-08-04 22:33:04,540 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2025-08-04 22:33:05,654 INFO Client connection 1754317985599_172.253.118.207_28563 connect
+
+2025-08-04 22:33:05,744 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='forex-tool::1.9.2', ephemeral=true, revision=0}, 1754317985599_172.253.118.207_28563
+
+2025-08-04 22:33:05,745 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@forex-tool::1.9.2,changed type ADD_SERVICE 
+
+2025-08-04 22:33:06,085 INFO Load instance extension handler []
+
+2025-08-04 22:34:46,601 INFO Client connection 1754317985599_172.253.118.207_28563 disconnect, remove instances and subscribers
+
+2025-08-04 22:34:46,602 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@forex-tool::1.9.2,changed type DELETE_SERVICE 
+
+2025-08-04 22:34:50,028 INFO Client connection 1754318090018_172.253.118.207_37716 connect
+
+2025-08-04 22:34:50,561 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='forex-tool::1.9.2', ephemeral=true, revision=2}, 1754318090018_172.253.118.207_37716
+
+2025-08-04 22:34:50,561 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@forex-tool::1.9.2,changed type ADD_SERVICE 
+
+2025-08-04 22:36:18,912 INFO Client connection 127.0.0.1:8000#true connect
+
+2025-08-04 22:36:18,919 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=0}, 127.0.0.1:8000#true
+
+2025-08-04 22:36:18,920 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type ADD_SERVICE 
+
+2025-08-04 22:36:48,965 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, ip: {"ip":"127.0.0.1","port":8000,"healthy":false,"cluster":"None","extendDatum":{"customInstanceId":"127.0.0.1#8000#None#DEFAULT_GROUP@@internet-search-agent","protocol":"acp"},"lastHeartBeatTime":1754318178919,"metadataId":"127.0.0.1:8000:None"}
+
+2025-08-04 22:36:48,965 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, 127.0.0.1:8000#true
+
+2025-08-04 22:36:48,966 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type DELETE_SERVICE 
+
+2025-08-04 22:36:49,260 INFO Client connection 127.0.0.1:8000#true disconnect, remove instances and subscribers
+
+2025-08-04 22:37:44,996 WARN remove instance from non-exist client: 127.0.0.1:8000#true
+
+2025-08-04 22:38:01,124 INFO Client connection 127.0.0.1:8008#true connect
+
+2025-08-04 22:38:01,125 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=0}, 127.0.0.1:8008#true
+
+2025-08-04 22:38:01,125 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type ADD_SERVICE 
+
+2025-08-04 22:38:31,140 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, ip: {"ip":"127.0.0.1","port":8008,"healthy":false,"cluster":"None","extendDatum":{"customInstanceId":"127.0.0.1#8008#None#DEFAULT_GROUP@@internet-search-agent","protocol":"acp"},"lastHeartBeatTime":1754318281125,"metadataId":"127.0.0.1:8008:None"}
+
+2025-08-04 22:38:31,140 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, 127.0.0.1:8008#true
+
+2025-08-04 22:38:31,141 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type DELETE_SERVICE 
+
+2025-08-04 22:38:34,349 INFO Client connection 127.0.0.1:8008#true disconnect, remove instances and subscribers
+
+2025-08-04 22:39:34,481 WARN namespace : public, [DEFAULT_GROUP@@internet-search-agent] services are automatically cleaned
+
+2025-08-04 22:45:45,505 INFO Client connection 127.0.0.1:8008#true connect
+
+2025-08-04 22:45:45,505 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=0}, 127.0.0.1:8008#true
+
+2025-08-04 22:45:45,505 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type ADD_SERVICE 
+
+2025-08-04 22:46:15,535 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, ip: {"ip":"127.0.0.1","port":8008,"healthy":false,"cluster":"None","extendDatum":{"customInstanceId":"127.0.0.1#8008#None#DEFAULT_GROUP@@internet-search-agent","protocol":"acp"},"lastHeartBeatTime":1754318745505,"metadataId":"127.0.0.1:8008:None"}
+
+2025-08-04 22:46:15,536 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, 127.0.0.1:8008#true
+
+2025-08-04 22:46:15,536 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type DELETE_SERVICE 
+
+2025-08-04 22:46:19,697 INFO Client connection 127.0.0.1:8008#true disconnect, remove instances and subscribers
+
+2025-08-04 22:47:34,515 WARN namespace : public, [DEFAULT_GROUP@@internet-search-agent] services are automatically cleaned
+
+2025-08-04 22:54:32,535 INFO Client connection 127.0.0.1:8008#true connect
+
+2025-08-04 22:54:32,535 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=0}, 127.0.0.1:8008#true
+
+2025-08-04 22:54:32,536 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type ADD_SERVICE 
+
+2025-08-04 22:55:02,561 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, ip: {"ip":"127.0.0.1","port":8008,"healthy":false,"cluster":"None","extendDatum":{"customInstanceId":"127.0.0.1#8008#None#DEFAULT_GROUP@@internet-search-agent","protocol":"acp"},"lastHeartBeatTime":1754319272535,"metadataId":"127.0.0.1:8008:None"}
+
+2025-08-04 22:55:02,561 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=true, revision=1}, 127.0.0.1:8008#true
+
+2025-08-04 22:55:02,562 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type DELETE_SERVICE 
+
+2025-08-04 22:55:05,060 INFO Client connection 127.0.0.1:8008#true disconnect, remove instances and subscribers
+
+2025-08-04 22:56:09,385 INFO Client connection 127.0.0.1:8008#false connect
+
+2025-08-04 22:56:09,386 ERROR got exception. caused: errCode: 400, errMsg: Current service DEFAULT_GROUP@@internet-search-agent is ephemeral service, can't register persistent instance. ;
+
+2025-08-04 22:56:34,547 WARN namespace : public, [DEFAULT_GROUP@@internet-search-agent] services are automatically cleaned
+
+2025-08-04 22:56:34,786 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=false, revision=0}, 127.0.0.1:8008#false
+
+2025-08-04 22:56:34,786 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type ADD_SERVICE 
+
+2025-08-04 22:56:35,769 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=false, revision=1}, 127.0.0.1:8008#false
+

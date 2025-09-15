@@ -1,0 +1,52 @@
+2025-08-05 07:07:14,749 INFO Client connection 1754348834743_172.253.118.207_34938 connect
+
+2025-08-05 07:08:05,358 INFO Client connection 1754348885355_172.253.118.207_61307 connect
+
+2025-08-05 07:08:55,095 INFO Client connection 1754348935092_172.253.118.207_55864 connect
+
+2025-08-05 21:49:58,799 WARN remove instance from non-exist client: 127.0.0.1:8008#true
+
+2025-08-05 21:50:15,903 WARN remove instance from non-exist client: 127.0.0.1:8008#true
+
+2025-08-05 21:51:35,536 WARN remove instance from non-exist client: 127.0.0.1:8008#true
+
+2025-08-05 21:57:49,882 INFO Client connection 1754348834743_172.253.118.207_34938 disconnect, remove instances and subscribers
+
+2025-08-05 21:57:49,885 INFO Client connection 1754348935092_172.253.118.207_55864 disconnect, remove instances and subscribers
+
+2025-08-05 21:57:49,886 INFO Client connection 1754348885355_172.253.118.207_61307 disconnect, remove instances and subscribers
+
+2025-08-05 22:26:36,691 INFO Client connection 1754318090018_172.253.118.207_37716 disconnect, remove instances and subscribers
+
+2025-08-05 22:26:36,692 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@forex-tool::1.9.2,changed type DELETE_SERVICE 
+
+2025-08-05 22:26:42,570 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2025-08-05 22:26:42,572 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+
+2025-08-05 22:26:54,871 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2025-08-05 22:26:54,871 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2025-08-05 22:26:54,871 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2025-08-05 22:26:54,871 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2025-08-05 22:26:55,426 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@internet-search-agent,changed type ADD_SERVICE 
+
+2025-08-05 22:26:56,319 INFO Load instance extension handler []
+
+2025-08-05 22:29:34,638 INFO Client connection 1754404174603_172.253.118.207_58850 connect
+
+2025-08-05 22:29:34,751 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='forex-tool::1.9.2', ephemeral=true, revision=0}, 1754404174603_172.253.118.207_58850
+
+2025-08-05 22:29:34,751 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@forex-tool::1.9.2,changed type ADD_SERVICE 
+
+2025-08-05 22:30:18,614 INFO Client connection 1754404174603_172.253.118.207_58850 disconnect, remove instances and subscribers
+
+2025-08-05 22:30:18,615 WARN [fuzzy-watch] service change matched,service key public@@DEFAULT_GROUP@@forex-tool::1.9.2,changed type DELETE_SERVICE 
+
+2025-08-05 22:30:28,015 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2025-08-05 22:30:28,017 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+

@@ -1,0 +1,32 @@
+2025-08-04 22:34:50,543 INFO [dump] add formal task. groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-tools.json+mcp-tools+public
+
+2025-08-04 22:34:50,551 INFO [dump] add formal task. groupKey=62a603ba-51f0-465b-827b-349041ec4481-mcp-versions.json+mcp-server-versions+public
+
+2025-08-04 22:34:50,557 INFO [dump] add formal task. groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-server.json+mcp-server+public
+
+2025-08-04 22:34:50,645 INFO [dump] process formal task. groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-tools.json+mcp-tools+public
+
+2025-08-04 22:34:50,659 INFO [dump] md5 changed, save to disk cache ,groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=
+
+2025-08-04 22:34:50,667 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=,lastModifiedTs=1754318090539
+
+2025-08-04 22:34:50,668 INFO [dump] process formal task. groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-server.json+mcp-server+public
+
+2025-08-04 22:34:50,669 INFO [dump] md5 changed, save to disk cache ,groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-server.json+mcp-server+public, newMd5=98863f583012eb79bb8391ccd655ce6c,oldMd5=
+
+2025-08-04 22:34:50,670 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-server.json+mcp-server+public, newMd5=98863f583012eb79bb8391ccd655ce6c,oldMd5=,lastModifiedTs=1754318090555
+
+2025-08-04 22:34:50,670 INFO [dump] process formal task. groupKey=62a603ba-51f0-465b-827b-349041ec4481-mcp-versions.json+mcp-server-versions+public
+
+2025-08-04 22:34:50,670 INFO [dump] md5 changed, save to disk cache ,groupKey=62a603ba-51f0-465b-827b-349041ec4481-mcp-versions.json+mcp-server-versions+public, newMd5=e25ea07ce775f0b0f871deb6b695e96c,oldMd5=
+
+2025-08-04 22:34:50,671 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=62a603ba-51f0-465b-827b-349041ec4481-mcp-versions.json+mcp-server-versions+public, newMd5=e25ea07ce775f0b0f871deb6b695e96c,oldMd5=,lastModifiedTs=1754318090550
+
+2025-08-04 22:35:30,575 INFO [dump] add formal task. groupKey=config.nacos+DEFAULT_GROUP+public
+
+2025-08-04 22:35:30,648 INFO [dump] process formal task. groupKey=config.nacos+DEFAULT_GROUP+public
+
+2025-08-04 22:35:30,649 INFO [dump] md5 changed, save to disk cache ,groupKey=config.nacos+DEFAULT_GROUP+public, newMd5=3633005a9e7f93047f3543d55913ee8a,oldMd5=
+
+2025-08-04 22:35:30,650 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=config.nacos+DEFAULT_GROUP+public, newMd5=3633005a9e7f93047f3543d55913ee8a,oldMd5=,lastModifiedTs=1754318130563
+

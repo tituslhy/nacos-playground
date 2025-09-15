@@ -1,0 +1,66 @@
+2025-08-06 21:41:23,604 INFO [dump] add formal task. groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools+public
+
+2025-08-06 21:41:23,614 INFO [dump] add formal task. groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions+public
+
+2025-08-06 21:41:23,620 INFO [dump] add formal task. groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server+public
+
+2025-08-06 21:41:23,686 INFO [dump] process formal task. groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools+public
+
+2025-08-06 21:41:23,700 INFO [dump] md5 changed, save to disk cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=
+
+2025-08-06 21:41:23,710 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=,lastModifiedTs=1754487683600
+
+2025-08-06 21:41:23,711 INFO [dump] process formal task. groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions+public
+
+2025-08-06 21:41:23,712 INFO [dump] md5 changed, save to disk cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions+public, newMd5=9e1dbc2a35871cef558d8cb8b0046bc5,oldMd5=
+
+2025-08-06 21:41:23,712 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions+public, newMd5=9e1dbc2a35871cef558d8cb8b0046bc5,oldMd5=,lastModifiedTs=1754487683613
+
+2025-08-06 21:41:23,713 INFO [dump] process formal task. groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server+public
+
+2025-08-06 21:41:23,713 INFO [dump] md5 changed, save to disk cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server+public, newMd5=99249ed78d8b6b4b4e576110bfe95c64,oldMd5=
+
+2025-08-06 21:41:23,713 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server+public, newMd5=99249ed78d8b6b4b4e576110bfe95c64,oldMd5=,lastModifiedTs=1754487683619
+
+2025-08-06 22:10:28,335 INFO [dump] md5 changed, save to disk cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=
+
+2025-08-06 22:10:28,335 INFO [dump] md5 changed, save to disk cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions+public, newMd5=9e1dbc2a35871cef558d8cb8b0046bc5,oldMd5=
+
+2025-08-06 22:10:28,335 INFO [dump] md5 changed, save to disk cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server+public, newMd5=99249ed78d8b6b4b4e576110bfe95c64,oldMd5=
+
+2025-08-06 22:10:28,340 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=,lastModifiedTs=1754487683600
+
+2025-08-06 22:10:28,340 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server+public, newMd5=99249ed78d8b6b4b4e576110bfe95c64,oldMd5=,lastModifiedTs=1754487683619
+
+2025-08-06 22:10:28,340 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions+public, newMd5=9e1dbc2a35871cef558d8cb8b0046bc5,oldMd5=,lastModifiedTs=1754487683613
+
+2025-08-06 22:10:28,341 INFO [dump-all-ok] d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-tools.json+mcp-tools, 1754487683600, length=608,md5UTF8=a1b89406c43f54bf3a2d01a06dcdc9f4
+
+2025-08-06 22:10:28,341 INFO [dump-all-ok] d1fde57e-feb2-4a85-ac28-1875a35c357a-mcp-versions.json+mcp-server-versions, 1754487683613, length=288,md5UTF8=9e1dbc2a35871cef558d8cb8b0046bc5
+
+2025-08-06 22:10:28,341 INFO [dump-all-ok] d1fde57e-feb2-4a85-ac28-1875a35c357a-1.9.2-mcp-server.json+mcp-server, 1754487683619, length=477,md5UTF8=99249ed78d8b6b4b4e576110bfe95c64
+
+2025-08-06 22:12:02,452 INFO [dump] add formal task. groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-tools.json+mcp-tools+public
+
+2025-08-06 22:12:02,460 INFO [dump] add formal task. groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-mcp-versions.json+mcp-server-versions+public
+
+2025-08-06 22:12:02,467 INFO [dump] add formal task. groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-server.json+mcp-server+public
+
+2025-08-06 22:12:02,509 INFO [dump] process formal task. groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-mcp-versions.json+mcp-server-versions+public
+
+2025-08-06 22:12:02,519 INFO [dump] md5 changed, save to disk cache ,groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-mcp-versions.json+mcp-server-versions+public, newMd5=c30fc7f6fb09716fa27c8f52f11b9e7c,oldMd5=
+
+2025-08-06 22:12:02,528 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-mcp-versions.json+mcp-server-versions+public, newMd5=c30fc7f6fb09716fa27c8f52f11b9e7c,oldMd5=,lastModifiedTs=1754489522459
+
+2025-08-06 22:12:02,529 INFO [dump] process formal task. groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-tools.json+mcp-tools+public
+
+2025-08-06 22:12:02,530 INFO [dump] md5 changed, save to disk cache ,groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=
+
+2025-08-06 22:12:02,531 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-tools.json+mcp-tools+public, newMd5=a1b89406c43f54bf3a2d01a06dcdc9f4,oldMd5=,lastModifiedTs=1754489522448
+
+2025-08-06 22:12:02,531 INFO [dump] process formal task. groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-server.json+mcp-server+public
+
+2025-08-06 22:12:02,531 INFO [dump] md5 changed, save to disk cache ,groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-server.json+mcp-server+public, newMd5=db5829cba8ed2d20cfa03784267cfa3b,oldMd5=
+
+2025-08-06 22:12:02,532 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=23e966bb-a075-4db3-ba45-41673fa5562a-1.9.2-mcp-server.json+mcp-server+public, newMd5=db5829cba8ed2d20cfa03784267cfa3b,oldMd5=,lastModifiedTs=1754489522466
+

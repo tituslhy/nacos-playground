@@ -1,0 +1,1660 @@
+2025-08-05 01:03:59,585 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 01:03:59,590 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDMzNjA5MH0.a6BxmsiAKCeIUcgZvjQoguRSpZ_A3WeAcWoLrLP64yw', globalAdmin=false}
+
+2025-08-05 01:04:15,610 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 01:04:15,685 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM0NTA1NX0.nAC2GFdrSfKJAp-VFLq5Dr5Sg8BUCzXWNmz_vEQY9Dw', globalAdmin=false}
+
+2025-08-05 01:04:15,701 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 01:04:15,760 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM0NTA1NX0.nAC2GFdrSfKJAp-VFLq5Dr5Sg8BUCzXWNmz_vEQY9Dw', globalAdmin=false}
+
+2025-08-05 02:29:29,779 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 02:29:29,780 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDMzNjA5MH0.a6BxmsiAKCeIUcgZvjQoguRSpZ_A3WeAcWoLrLP64yw', globalAdmin=false}
+
+2025-08-05 03:55:09,796 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 03:55:09,796 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 03:55:25,859 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 03:55:25,933 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMyNX0.pdIDLhku7SI5bfTRfhSQjAtIAJyvzfhhqKon92M1R88', globalAdmin=false}
+
+2025-08-05 03:55:25,948 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 03:55:26,009 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMyNn0.EIM6m9lGRwjJuMdWGe4p_wRc-o_Ocs5jVQ0me6I_BYI', globalAdmin=false}
+
+2025-08-05 05:14:03,831 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 05:14:03,833 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:11:31,804 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:11:31,805 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:11:48,016 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:11:48,089 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2MzUwOH0._guec4N0KvYdP-CMdgRjRR0gSpovwgnyik6SmrELDCo', globalAdmin=false}
+
+2025-08-05 06:11:48,109 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:11:48,171 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2MzUwOH0._guec4N0KvYdP-CMdgRjRR0gSpovwgnyik6SmrELDCo', globalAdmin=false}
+
+2025-08-05 06:44:47,774 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:44:47,775 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:44:48,483 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:44:48,483 DEBUG access denied, request: GET /v3/console/core/namespace/list, reason: Code: 401, Message: token expired!.
+
+2025-08-05 06:44:48,528 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 06:44:48,528 DEBUG access denied, request: GET /v3/console/ns/service/list, reason: Code: 401, Message: User not found! Please check user exist or password is right!.
+
+2025-08-05 06:44:53,089 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:44:53,089 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:44:53,115 DEBUG auth start, request: GET /v3/console/cs/config/list
+
+2025-08-05 06:44:53,115 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='config', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTQ5M30._26dE6PDLoaLhYb6YXuYsDoMcxs-18ErFoDFtMMCW0U', globalAdmin=false}
+
+2025-08-05 06:44:58,710 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 06:44:58,710 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTQ5M30._26dE6PDLoaLhYb6YXuYsDoMcxs-18ErFoDFtMMCW0U', globalAdmin=false}
+
+2025-08-05 06:45:17,787 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:45:17,788 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:45:34,167 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:45:34,241 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTUzNH0.dyDRrAU6cDdH0IABr6oGD_qqGKWiblfbGnwpVM8F2bs', globalAdmin=false}
+
+2025-08-05 06:45:34,257 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:45:34,318 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTUzNH0.dyDRrAU6cDdH0IABr6oGD_qqGKWiblfbGnwpVM8F2bs', globalAdmin=false}
+
+2025-08-05 06:45:47,800 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:45:47,801 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:46:17,813 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:46:17,813 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:46:34,358 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:46:34,432 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTU5NH0.CAKwpyJCq9qxFj3Og_5dIgB9biqK19V08QIVh4R_vt0', globalAdmin=false}
+
+2025-08-05 06:46:34,449 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:46:34,510 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTU5NH0.CAKwpyJCq9qxFj3Og_5dIgB9biqK19V08QIVh4R_vt0', globalAdmin=false}
+
+2025-08-05 06:46:47,823 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:46:47,824 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:47:17,836 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:47:17,837 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:47:34,548 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:47:34,623 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTY1NH0.3Vl64od1Yfm5e2LlyfoPxLdhCDJ7WVOGSAGQqRb7lAc', globalAdmin=false}
+
+2025-08-05 06:47:34,639 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:47:34,698 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTY1NH0.3Vl64od1Yfm5e2LlyfoPxLdhCDJ7WVOGSAGQqRb7lAc', globalAdmin=false}
+
+2025-08-05 06:47:47,856 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:47:47,857 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:48:17,874 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:48:17,875 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:48:34,736 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:48:34,811 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTcxNH0.KEU0Nt9x472c0xNhdNen7UBV1xj81EpCXpzJt9HX748', globalAdmin=false}
+
+2025-08-05 06:48:34,831 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:48:34,890 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTcxNH0.KEU0Nt9x472c0xNhdNen7UBV1xj81EpCXpzJt9HX748', globalAdmin=false}
+
+2025-08-05 06:48:47,892 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:48:47,893 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:49:17,907 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:49:17,907 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:49:34,924 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:49:35,001 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTc3NX0.hz1LtnHm1Bl686WiPjKQD_7B7HmZAKIANJ1owSIZlDA', globalAdmin=false}
+
+2025-08-05 06:49:35,021 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:49:35,091 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTc3NX0.hz1LtnHm1Bl686WiPjKQD_7B7HmZAKIANJ1owSIZlDA', globalAdmin=false}
+
+2025-08-05 06:49:47,917 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:49:47,918 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:50:17,933 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:50:17,935 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:50:35,132 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:50:35,207 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTgzNX0.w0ndxnQIWAp6a3i-eCh1kiA1vNQ8rsTC8rO3ilMRcrw', globalAdmin=false}
+
+2025-08-05 06:50:35,222 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:50:35,282 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTgzNX0.w0ndxnQIWAp6a3i-eCh1kiA1vNQ8rsTC8rO3ilMRcrw', globalAdmin=false}
+
+2025-08-05 06:50:47,952 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:50:47,953 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:51:17,975 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:51:17,976 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:51:35,318 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:51:35,393 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTg5NX0.N--eeLmZb4HZX2_1g_3k08RhgfmXBGdcE6ci5xdJL3c', globalAdmin=false}
+
+2025-08-05 06:51:35,410 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:51:35,474 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTg5NX0.N--eeLmZb4HZX2_1g_3k08RhgfmXBGdcE6ci5xdJL3c', globalAdmin=false}
+
+2025-08-05 06:51:47,996 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:51:47,998 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:52:18,010 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:52:18,011 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:52:23,718 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:52:23,718 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:52:23,757 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 06:52:23,757 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTQ5M30._26dE6PDLoaLhYb6YXuYsDoMcxs-18ErFoDFtMMCW0U', globalAdmin=false}
+
+2025-08-05 06:52:24,930 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:52:24,930 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:52:24,956 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 06:52:24,956 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTQ5M30._26dE6PDLoaLhYb6YXuYsDoMcxs-18ErFoDFtMMCW0U', globalAdmin=false}
+
+2025-08-05 06:52:35,508 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:52:35,584 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTk1NX0.WDA1cmT6Ny41TEQO5-oQjLcyAe2GKCecoac57moqiz0', globalAdmin=false}
+
+2025-08-05 06:52:35,603 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:52:35,663 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTk1NX0.WDA1cmT6Ny41TEQO5-oQjLcyAe2GKCecoac57moqiz0', globalAdmin=false}
+
+2025-08-05 06:52:48,023 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:52:48,024 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:53:18,041 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:53:18,042 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:53:35,692 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:53:35,760 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjAxNX0.zayTbYtyERwBxDlwW1HUxBFXwAVYLa9UeqPahgvcxGQ', globalAdmin=false}
+
+2025-08-05 06:53:35,778 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:53:35,842 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjAxNX0.zayTbYtyERwBxDlwW1HUxBFXwAVYLa9UeqPahgvcxGQ', globalAdmin=false}
+
+2025-08-05 06:53:48,059 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:53:48,060 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:54:18,078 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:54:18,079 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:54:35,872 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:54:35,947 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjA3NX0.LgK9nE_C4Oi3x9k7376BFlVX6exlgW13c6sjZgZHJqg', globalAdmin=false}
+
+2025-08-05 06:54:35,967 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:54:36,031 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjA3Nn0.ASKqOk2YcB-INgO5YEPIVwnKwD5Rb7k7HsEZ-VF0StQ', globalAdmin=false}
+
+2025-08-05 06:54:48,093 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:54:48,094 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:55:18,106 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:55:18,107 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:55:36,066 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:55:36,142 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjEzNn0.oeQS6Iysb7RtPvNu-fG9NR7A_drUTUVi3l8G7lG83B4', globalAdmin=false}
+
+2025-08-05 06:55:36,157 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:55:36,216 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjEzNn0.oeQS6Iysb7RtPvNu-fG9NR7A_drUTUVi3l8G7lG83B4', globalAdmin=false}
+
+2025-08-05 06:55:48,123 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:55:48,124 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:56:18,133 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:56:18,134 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:56:36,252 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:56:36,327 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjE5Nn0.JYubsflufcc09MzahWTK9oVbQrU7CRMYPlHcs4W9WRg', globalAdmin=false}
+
+2025-08-05 06:56:36,360 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:56:36,419 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjE5Nn0.JYubsflufcc09MzahWTK9oVbQrU7CRMYPlHcs4W9WRg', globalAdmin=false}
+
+2025-08-05 06:56:48,145 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:56:48,146 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:56:56,299 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:56:56,300 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 06:56:56,330 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 06:56:56,331 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTQ5M30._26dE6PDLoaLhYb6YXuYsDoMcxs-18ErFoDFtMMCW0U', globalAdmin=false}
+
+2025-08-05 06:57:00,066 DEBUG auth start, request: GET /v3/console/ai/mcp/list
+
+2025-08-05 06:57:00,066 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NTQ5M30._26dE6PDLoaLhYb6YXuYsDoMcxs-18ErFoDFtMMCW0U', globalAdmin=false}
+
+2025-08-05 06:57:18,164 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:57:18,165 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:57:36,455 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:57:36,534 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjI1Nn0.7nSiWvEaQXX8yh52PDwIBuEdycTgAq_aRfNiPX9LWm0', globalAdmin=false}
+
+2025-08-05 06:57:36,553 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:57:36,615 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjI1Nn0.7nSiWvEaQXX8yh52PDwIBuEdycTgAq_aRfNiPX9LWm0', globalAdmin=false}
+
+2025-08-05 06:57:48,191 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:57:48,192 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:58:18,209 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:58:18,210 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:58:36,649 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:58:36,722 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjMxNn0.o6lww_UCMwyKJA1z1ze0ypW2LnCDVidryj6i6fZuWqY', globalAdmin=false}
+
+2025-08-05 06:58:36,737 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:58:36,797 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjMxNn0.o6lww_UCMwyKJA1z1ze0ypW2LnCDVidryj6i6fZuWqY', globalAdmin=false}
+
+2025-08-05 06:58:48,227 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:58:48,228 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:59:18,246 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:59:18,247 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 06:59:36,835 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 06:59:36,910 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjM3Nn0.tb58_pZR0_LrOPZdzZHn_6kV2kmFyqeN4XSLgM6awHs', globalAdmin=false}
+
+2025-08-05 06:59:36,929 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:59:36,989 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjM3Nn0.tb58_pZR0_LrOPZdzZHn_6kV2kmFyqeN4XSLgM6awHs', globalAdmin=false}
+
+2025-08-05 06:59:48,266 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 06:59:48,267 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:00:18,286 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:00:18,287 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:00:37,022 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:00:37,094 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjQzN30.pe5PWeCVayB_QycrMLVeZDc2oALtc4pxFcyaLrg6WRU', globalAdmin=false}
+
+2025-08-05 07:00:37,109 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:00:37,168 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjQzN30.pe5PWeCVayB_QycrMLVeZDc2oALtc4pxFcyaLrg6WRU', globalAdmin=false}
+
+2025-08-05 07:00:48,305 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:00:48,306 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:01:18,324 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:01:18,325 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:01:37,201 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:01:37,276 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjQ5N30.DKMbLyzFRztI7cg2hMvP9Nl_DnmOgNqabTaEX24AUBI', globalAdmin=false}
+
+2025-08-05 07:01:37,290 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:01:37,350 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjQ5N30.DKMbLyzFRztI7cg2hMvP9Nl_DnmOgNqabTaEX24AUBI', globalAdmin=false}
+
+2025-08-05 07:01:48,343 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:01:48,344 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:02:18,368 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:02:18,369 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:02:37,388 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:02:37,462 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjU1N30.__yY14PeTAozl9c2cfYDB21Ia9cWh1gtaaC-5Ph_H5Q', globalAdmin=false}
+
+2025-08-05 07:02:37,479 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:02:37,538 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjU1N30.__yY14PeTAozl9c2cfYDB21Ia9cWh1gtaaC-5Ph_H5Q', globalAdmin=false}
+
+2025-08-05 07:02:48,386 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:02:48,387 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:03:18,409 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:03:18,410 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:03:37,579 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:03:37,654 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjYxN30.ORlevgxsj1dBNHSvJiOkPqYk1oUaqxpTDdFtXQw_OU0', globalAdmin=false}
+
+2025-08-05 07:03:37,670 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:03:37,733 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjYxN30.ORlevgxsj1dBNHSvJiOkPqYk1oUaqxpTDdFtXQw_OU0', globalAdmin=false}
+
+2025-08-05 07:03:48,428 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:03:48,429 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:04:18,445 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:04:18,445 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:04:37,773 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:04:37,848 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjY3N30.fAXhNtteNsSGTGVbKQOjBfn7uAcKJRTl3no4gLgevRY', globalAdmin=false}
+
+2025-08-05 07:04:37,864 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:04:37,924 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjY3N30.fAXhNtteNsSGTGVbKQOjBfn7uAcKJRTl3no4gLgevRY', globalAdmin=false}
+
+2025-08-05 07:04:48,457 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:04:48,457 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:05:18,469 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:05:18,470 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:05:37,965 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:05:38,039 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjczOH0.mD6igY-QZ19Pw57VetDrHV-_rQxh7GfGicKo816aQYc', globalAdmin=false}
+
+2025-08-05 07:05:38,055 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:05:38,115 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjczOH0.mD6igY-QZ19Pw57VetDrHV-_rQxh7GfGicKo816aQYc', globalAdmin=false}
+
+2025-08-05 07:05:48,482 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:05:48,483 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:06:18,497 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:06:18,498 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:06:38,150 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:06:38,222 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2Njc5OH0.kZNhQ_t43dodgxV7MZjyyvx27e6xWtOkerhNs4vaQHU', globalAdmin=false}
+
+2025-08-05 07:06:38,240 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:06:38,303 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2Njc5OH0.kZNhQ_t43dodgxV7MZjyyvx27e6xWtOkerhNs4vaQHU', globalAdmin=false}
+
+2025-08-05 07:06:48,512 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:06:48,513 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:07:18,529 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:07:18,530 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:07:38,341 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:07:38,414 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2Njg1OH0.lN7YUo5uWWc3Lz4ITwKSbqBZ4H0AipatIIx8vLDfAWY', globalAdmin=false}
+
+2025-08-05 07:07:38,434 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:07:38,494 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2Njg1OH0.lN7YUo5uWWc3Lz4ITwKSbqBZ4H0AipatIIx8vLDfAWY', globalAdmin=false}
+
+2025-08-05 07:07:48,546 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:07:48,546 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:08:18,558 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:08:18,558 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:08:38,531 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:08:38,605 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjkxOH0.GW3leeSzYWRMgHZcRkBxRRNznZ0W-8ckMhK9EZ64_kE', globalAdmin=false}
+
+2025-08-05 07:08:38,621 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:08:38,681 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NjkxOH0.GW3leeSzYWRMgHZcRkBxRRNznZ0W-8ckMhK9EZ64_kE', globalAdmin=false}
+
+2025-08-05 07:08:48,569 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:08:48,570 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:09:18,642 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:09:18,643 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:09:38,770 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:09:38,844 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2Njk3OH0.dgea1pjpDQU8EDE8VPzfiTHhEYfqyF4_9ltl4NxyhAQ', globalAdmin=false}
+
+2025-08-05 07:09:38,860 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:09:38,920 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2Njk3OH0.dgea1pjpDQU8EDE8VPzfiTHhEYfqyF4_9ltl4NxyhAQ', globalAdmin=false}
+
+2025-08-05 07:09:48,661 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:09:48,662 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:10:18,679 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:10:18,680 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:10:38,956 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:10:39,030 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzAzOX0._3WmBZU_5OF8rMH3S_8pu7Ao3c-k_prwmPoRV9TBijc', globalAdmin=false}
+
+2025-08-05 07:10:39,045 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:10:39,105 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzAzOX0._3WmBZU_5OF8rMH3S_8pu7Ao3c-k_prwmPoRV9TBijc', globalAdmin=false}
+
+2025-08-05 07:10:48,697 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:10:48,698 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:11:18,715 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:11:18,716 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:11:39,143 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:11:39,218 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzA5OX0.XG1ahKhwhr_HEdC46263-LvsjGsN1GplUMP2fb4kaSE', globalAdmin=false}
+
+2025-08-05 07:11:39,238 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:11:39,298 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzA5OX0.XG1ahKhwhr_HEdC46263-LvsjGsN1GplUMP2fb4kaSE', globalAdmin=false}
+
+2025-08-05 07:11:48,734 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:11:48,735 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:12:18,752 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:12:18,753 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:12:39,335 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:12:39,409 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzE1OX0.oUZmImjlp4atEGkso-nBoE32-2N06daawgEZl27ddFc', globalAdmin=false}
+
+2025-08-05 07:12:39,425 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:12:39,484 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzE1OX0.oUZmImjlp4atEGkso-nBoE32-2N06daawgEZl27ddFc', globalAdmin=false}
+
+2025-08-05 07:12:48,771 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:12:48,772 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:13:18,790 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:13:18,791 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 07:13:39,529 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 07:13:39,604 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzIxOX0.kPpDPXBJjVl_8na-SMd3pVxcuUu8JBcZGfqFC_WyMi8', globalAdmin=false}
+
+2025-08-05 07:13:39,620 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:13:39,679 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM2NzIxOX0.kPpDPXBJjVl_8na-SMd3pVxcuUu8JBcZGfqFC_WyMi8', globalAdmin=false}
+
+2025-08-05 07:48:25,509 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 07:48:25,510 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 08:28:41,639 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 08:28:41,639 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM1NTMwOX0.1YRkvNSmdFQHYy01slTCrJiyYM2nS9xAwohmuUPGtl4', globalAdmin=false}
+
+2025-08-05 08:29:02,528 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 08:29:02,605 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3MTc0Mn0.ThHkip7vtBDu-He4JZWG2Zxx-RWsm8be4av4O_S8LA4', globalAdmin=false}
+
+2025-08-05 08:29:02,620 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 08:29:02,680 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3MTc0Mn0.ThHkip7vtBDu-He4JZWG2Zxx-RWsm8be4av4O_S8LA4', globalAdmin=false}
+
+2025-08-05 09:45:20,647 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 09:45:20,647 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 10:14:01,220 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 10:14:01,221 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 10:14:22,185 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 10:14:22,260 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3ODA2Mn0.bsReQP1VsAf8TnlxxPmCrNMh0eaTckGNxAmksFf2zBw', globalAdmin=false}
+
+2025-08-05 10:14:22,279 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 10:14:22,338 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3ODA2Mn0.bsReQP1VsAf8TnlxxPmCrNMh0eaTckGNxAmksFf2zBw', globalAdmin=false}
+
+2025-08-05 11:00:24,365 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 11:00:24,365 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 11:49:32,017 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 11:49:32,018 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 11:49:53,153 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 11:49:53,227 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM4Mzc5M30.g4p3ACoV8sJnmFjmadHWhR_UXRbIp7ARcivv6eryLVo', globalAdmin=false}
+
+2025-08-05 11:49:53,242 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 11:49:53,302 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM4Mzc5M30.g4p3ACoV8sJnmFjmadHWhR_UXRbIp7ARcivv6eryLVo', globalAdmin=false}
+
+2025-08-05 12:34:24,867 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 12:34:24,869 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 13:35:46,906 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 13:35:46,907 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 13:36:08,186 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 13:36:08,257 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5MDE2OH0.mH_AvpiSrSTMgVPGgZthYcFD5K_F2PstmtU75keU5gM', globalAdmin=false}
+
+2025-08-05 13:36:08,273 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 13:36:08,334 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5MDE2OH0.mH_AvpiSrSTMgVPGgZthYcFD5K_F2PstmtU75keU5gM', globalAdmin=false}
+
+2025-08-05 14:36:45,944 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 14:36:45,945 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM3NjMyMH0.TQdsfG-KeLGSGUQBcImLvuPZGXD_4ZQ6dt0oFKhqNRM', globalAdmin=false}
+
+2025-08-05 15:40:44,373 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 15:40:44,374 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 15:41:05,705 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 15:41:05,767 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY2NX0.sXyNihv2QFMaoumfAbPl6oCPR_OHtilquaTzN2jcs2E', globalAdmin=false}
+
+2025-08-05 15:41:05,781 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 15:41:05,843 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY2NX0.sXyNihv2QFMaoumfAbPl6oCPR_OHtilquaTzN2jcs2E', globalAdmin=false}
+
+2025-08-05 16:21:30,499 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 16:21:30,500 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 17:38:17,549 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 17:38:17,549 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 17:38:39,028 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 17:38:39,102 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQwNDcxOX0.NxQtgMrutC1g1aW-Z1LKAVN6oSw58XU8smHwoCEsLcA', globalAdmin=false}
+
+2025-08-05 17:38:39,122 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 17:38:39,182 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQwNDcxOX0.NxQtgMrutC1g1aW-Z1LKAVN6oSw58XU8smHwoCEsLcA', globalAdmin=false}
+
+2025-08-05 18:36:34,454 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 18:36:34,455 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 18:47:24,404 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 18:47:24,405 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 18:47:46,040 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 18:47:46,112 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQwODg2Nn0.yXXl-ha8wdle2gv7yuur2eqJWbcX6sxUFZq4sHhH6B0', globalAdmin=false}
+
+2025-08-05 18:47:46,128 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 18:47:46,189 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQwODg2Nn0.yXXl-ha8wdle2gv7yuur2eqJWbcX6sxUFZq4sHhH6B0', globalAdmin=false}
+
+2025-08-05 18:58:54,022 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 18:58:54,023 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 19:40:18,691 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 19:40:18,691 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 19:40:40,487 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 19:40:40,560 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxMjA0MH0.XRyYNzHu0qD2h4k_5j7jLu53DD-oOuzd0egqhRMcJS0', globalAdmin=false}
+
+2025-08-05 19:40:40,575 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 19:40:40,635 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxMjA0MH0.XRyYNzHu0qD2h4k_5j7jLu53DD-oOuzd0egqhRMcJS0', globalAdmin=false}
+
+2025-08-05 20:34:01,591 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 20:34:01,592 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDM5NzY0NH0.zjP53A3mQxyXdF3eHxGxBtPk7l0qgAMtJot9IWVuMog', globalAdmin=false}
+
+2025-08-05 21:26:35,763 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:26:35,763 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:26:57,640 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:26:57,712 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODQxN30.YgnxM2JPBTCZ8X0Bfu30ICEqy4USwsutkJByDo84GNc', globalAdmin=false}
+
+2025-08-05 21:26:57,727 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:26:57,788 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODQxN30.YgnxM2JPBTCZ8X0Bfu30ICEqy4USwsutkJByDo84GNc', globalAdmin=false}
+
+2025-08-05 21:39:51,804 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:39:51,805 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:40:21,818 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:40:21,819 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:40:43,857 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:40:43,928 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTI0M30.7_0MY4Dx7Ad5q5CPrs_86zmn3By-azSLM3ikC3GE5Cc', globalAdmin=false}
+
+2025-08-05 21:40:43,947 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:40:44,006 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTI0NH0.h6BrvmjTyBj7CkysX0KXxBWJq36LFJKhJel0_DJFheY', globalAdmin=false}
+
+2025-08-05 21:40:51,832 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:40:51,832 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:41:21,846 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:41:21,847 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:41:44,050 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:41:44,124 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTMwNH0.0tWXZYOjvNC3MjCssKLoSZ-m01wUDRu2kz4BF4P8ZB0', globalAdmin=false}
+
+2025-08-05 21:41:44,141 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:41:44,201 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTMwNH0.0tWXZYOjvNC3MjCssKLoSZ-m01wUDRu2kz4BF4P8ZB0', globalAdmin=false}
+
+2025-08-05 21:41:51,861 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:41:51,862 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:42:21,878 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:42:21,879 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:42:44,231 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:42:44,304 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTM2NH0.Q5d2qbKP4TYnNN4FqJtkI2j8SFmeOb__5AJAP5eq6cA', globalAdmin=false}
+
+2025-08-05 21:42:44,320 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:42:44,380 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTM2NH0.Q5d2qbKP4TYnNN4FqJtkI2j8SFmeOb__5AJAP5eq6cA', globalAdmin=false}
+
+2025-08-05 21:42:51,893 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:42:51,894 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:43:21,911 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:43:21,912 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:43:44,409 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:43:44,476 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTQyNH0.AHvIFJAUWfyVWnSmJryW8hY0ohtP2AkCEFpe4QgC-3s', globalAdmin=false}
+
+2025-08-05 21:43:44,492 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:43:44,553 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTQyNH0.AHvIFJAUWfyVWnSmJryW8hY0ohtP2AkCEFpe4QgC-3s', globalAdmin=false}
+
+2025-08-05 21:43:51,928 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:43:51,929 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:44:21,943 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:44:21,943 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:44:44,588 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:44:44,664 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTQ4NH0.HTQD_TNmbziU-wCn-HZ77tBTAfYlYxh3YAp6Cpmt5tw', globalAdmin=false}
+
+2025-08-05 21:44:44,682 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:44:44,742 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTQ4NH0.HTQD_TNmbziU-wCn-HZ77tBTAfYlYxh3YAp6Cpmt5tw', globalAdmin=false}
+
+2025-08-05 21:44:51,955 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:44:51,956 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:45:21,968 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:45:21,969 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:45:44,778 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:45:44,853 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTU0NH0.4rCw-yRphhGIXxT5RjWT_x8xl38KNErBZ9E5lFdujsI', globalAdmin=false}
+
+2025-08-05 21:45:44,868 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:45:44,927 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTU0NH0.4rCw-yRphhGIXxT5RjWT_x8xl38KNErBZ9E5lFdujsI', globalAdmin=false}
+
+2025-08-05 21:45:51,980 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:45:51,981 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:46:21,995 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:46:21,996 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:46:44,965 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:46:45,039 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTYwNX0.GTQr2wYTr-DtIishh4Z50aMF_Oc1DSE6o0f71rzTZnc', globalAdmin=false}
+
+2025-08-05 21:46:45,055 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:46:45,115 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTYwNX0.GTQr2wYTr-DtIishh4Z50aMF_Oc1DSE6o0f71rzTZnc', globalAdmin=false}
+
+2025-08-05 21:46:52,006 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:46:52,007 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:47:22,016 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:47:22,017 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:47:45,151 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:47:45,226 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTY2NX0.mmK_smEdYBIrZYyHZFBiQUmSrZXm3-vxhoYCcdhHLDY', globalAdmin=false}
+
+2025-08-05 21:47:45,241 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:47:45,301 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTY2NX0.mmK_smEdYBIrZYyHZFBiQUmSrZXm3-vxhoYCcdhHLDY', globalAdmin=false}
+
+2025-08-05 21:47:52,032 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:47:52,033 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:48:22,052 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:48:22,053 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:48:42,952 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:48:42,953 DEBUG access denied, request: GET /v3/console/core/namespace/list, reason: Code: 401, Message: token expired!.
+
+2025-08-05 21:48:42,981 DEBUG auth start, request: GET /v3/console/ai/mcp/list
+
+2025-08-05 21:48:42,981 DEBUG access denied, request: GET /v3/console/ai/mcp/list, reason: Code: 401, Message: token expired!.
+
+2025-08-05 21:48:45,330 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:48:45,402 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTcyNX0.6Cs_cJdm2bv6FtDxu6hQsyeKu1PQrfVF9qNBENrwzWY', globalAdmin=false}
+
+2025-08-05 21:48:45,422 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:48:45,482 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTcyNX0.6Cs_cJdm2bv6FtDxu6hQsyeKu1PQrfVF9qNBENrwzWY', globalAdmin=false}
+
+2025-08-05 21:48:52,072 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:48:52,073 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:48:54,006 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:48:54,006 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:48:54,029 DEBUG auth start, request: GET /v3/console/cs/config/list
+
+2025-08-05 21:48:54,029 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='config', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:48:58,258 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:48:58,258 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:19,513 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:49:19,513 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:49:19,541 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:49:19,541 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:20,661 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:49:20,661 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:49:20,689 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:49:20,689 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:22,089 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:49:22,090 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:49:25,081 DEBUG auth start, request: GET /v3/console/ns/service
+
+2025-08-05 21:49:25,082 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:25,097 DEBUG auth start, request: GET /v3/console/ns/instance/list
+
+2025-08-05 21:49:25,097 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:28,950 DEBUG auth start, request: PUT /v3/console/ns/instance
+
+2025-08-05 21:49:28,951 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:34,480 DEBUG auth start, request: PUT /v3/console/ns/instance
+
+2025-08-05 21:49:34,482 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:49:45,520 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:49:45,594 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTc4NX0.cIn21AEUk9JnLVVFwIfayqMfyBRaak1CDVCSQyRNvcc', globalAdmin=false}
+
+2025-08-05 21:49:45,610 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:49:45,669 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTc4NX0.cIn21AEUk9JnLVVFwIfayqMfyBRaak1CDVCSQyRNvcc', globalAdmin=false}
+
+2025-08-05 21:49:52,105 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:49:52,106 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:50:01,105 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:50:01,106 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:50:03,801 DEBUG auth start, request: DELETE /v3/console/ns/service
+
+2025-08-05 21:50:03,802 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:50:06,890 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:50:06,891 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:50:06,917 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:50:06,917 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:50:19,021 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:50:19,021 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 21:50:19,040 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:50:19,040 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:50:22,121 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:50:22,122 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:50:23,512 DEBUG auth start, request: DELETE /v3/console/ns/service
+
+2025-08-05 21:50:23,513 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:50:41,420 DEBUG auth start, request: DELETE /v3/console/ns/service
+
+2025-08-05 21:50:41,421 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:50:45,708 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:50:45,783 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTg0NX0.ix5mn4oPPdfMB0jwb_eXZl63yZGSZ3loW8KogRMqXts', globalAdmin=false}
+
+2025-08-05 21:50:45,798 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:50:45,858 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTg0NX0.ix5mn4oPPdfMB0jwb_eXZl63yZGSZ3loW8KogRMqXts', globalAdmin=false}
+
+2025-08-05 21:50:52,137 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:50:52,138 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:51:03,906 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:51:03,906 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:51:04,528 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 21:51:04,528 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 21:51:22,150 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:51:22,151 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:51:45,892 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:51:45,966 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTkwNX0.u9WXGRqWU22dX9r6rbWpfUXxC4dECWVgz-86XzK7H7o', globalAdmin=false}
+
+2025-08-05 21:51:45,982 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:51:46,041 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTkwNn0.VAgCanCR5ZHunp1JkJUvxy3aXixBoaHg7hNREK4jbNE', globalAdmin=false}
+
+2025-08-05 21:51:52,166 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:51:52,167 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:52:22,180 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:52:22,180 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:52:46,080 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:52:46,155 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTk2Nn0.D-ZvBklaI9vu0CzSbPpWU23S3_w_-ypZEQHvGt4t1uU', globalAdmin=false}
+
+2025-08-05 21:52:46,172 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:52:46,232 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTk2Nn0.D-ZvBklaI9vu0CzSbPpWU23S3_w_-ypZEQHvGt4t1uU', globalAdmin=false}
+
+2025-08-05 21:52:52,198 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:52:52,199 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:53:22,214 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:53:22,214 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:53:46,269 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:53:46,343 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDAyNn0.ovIoBgRa1aJiN_I5Ol4pzc2YImdgEbShZYJGb6GnoIA', globalAdmin=false}
+
+2025-08-05 21:53:46,359 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:53:46,418 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDAyNn0.ovIoBgRa1aJiN_I5Ol4pzc2YImdgEbShZYJGb6GnoIA', globalAdmin=false}
+
+2025-08-05 21:53:52,223 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:53:52,223 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:54:22,232 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:54:22,232 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:54:46,457 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:54:46,533 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDA4Nn0.3Aw53uISMvTAMa0XOeIxSK0-vzVDaRAdc7_Bu1PkDPQ', globalAdmin=false}
+
+2025-08-05 21:54:46,548 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:54:46,608 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDA4Nn0.3Aw53uISMvTAMa0XOeIxSK0-vzVDaRAdc7_Bu1PkDPQ', globalAdmin=false}
+
+2025-08-05 21:54:52,243 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:54:52,243 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:55:22,253 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:55:22,254 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:55:46,638 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:55:46,705 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDE0Nn0.-DM6tKHOo8LhGp7lS1EEGuCKo8GQp00jOpld8kTnzQ0', globalAdmin=false}
+
+2025-08-05 21:55:46,722 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:55:46,786 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDE0Nn0.-DM6tKHOo8LhGp7lS1EEGuCKo8GQp00jOpld8kTnzQ0', globalAdmin=false}
+
+2025-08-05 21:55:52,262 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:55:52,263 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:56:22,273 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:56:22,274 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:56:46,813 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:56:46,878 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDIwNn0.N26A0D16zXN840fcmKB4ie46mIW3--njk1SrbBDhsoc', globalAdmin=false}
+
+2025-08-05 21:56:46,899 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:56:46,964 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDIwNn0.N26A0D16zXN840fcmKB4ie46mIW3--njk1SrbBDhsoc', globalAdmin=false}
+
+2025-08-05 21:56:52,284 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:56:52,285 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:57:22,296 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:57:22,297 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:57:46,998 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:57:47,074 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDI2N30.1bhqjC6bQiXYJodDJkMJfiFvdW8dn9YRbgcLjlQLlOk', globalAdmin=false}
+
+2025-08-05 21:57:47,089 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:57:47,150 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDI2N30.1bhqjC6bQiXYJodDJkMJfiFvdW8dn9YRbgcLjlQLlOk', globalAdmin=false}
+
+2025-08-05 21:57:52,310 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:57:52,311 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:58:22,325 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:58:22,325 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:58:47,188 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:58:47,263 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDMyN30.8tc6yP8rMtxgm2_nUyk6prqyAxKLQUwTCp8_iS85xz0', globalAdmin=false}
+
+2025-08-05 21:58:47,282 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:58:47,344 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDMyN30.8tc6yP8rMtxgm2_nUyk6prqyAxKLQUwTCp8_iS85xz0', globalAdmin=false}
+
+2025-08-05 21:58:52,341 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:58:52,342 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:59:22,358 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:59:22,359 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 21:59:47,369 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 21:59:47,438 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDM4N30.runnoYquNQ4vtbpf9gWKmKjlIVeWFgfIz4gyKWB7t_A', globalAdmin=false}
+
+2025-08-05 21:59:47,454 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:59:47,515 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDM4N30.runnoYquNQ4vtbpf9gWKmKjlIVeWFgfIz4gyKWB7t_A', globalAdmin=false}
+
+2025-08-05 21:59:52,377 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 21:59:52,378 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:00:22,395 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:00:22,396 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:00:47,556 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:00:47,630 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDQ0N30.BbKtc-b_DAQKCc7LM0AYr_rknwrN1CbRE_EfkLnESO0', globalAdmin=false}
+
+2025-08-05 22:00:47,650 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:00:47,711 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDQ0N30.BbKtc-b_DAQKCc7LM0AYr_rknwrN1CbRE_EfkLnESO0', globalAdmin=false}
+
+2025-08-05 22:00:52,413 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:00:52,413 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:01:22,428 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:01:22,428 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:01:47,746 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:01:47,822 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDUwN30.NIcJ28EOWf2OYuen9kg29ocvqjt9OM8uk6k2NAA64hM', globalAdmin=false}
+
+2025-08-05 22:01:47,839 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:01:47,899 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDUwN30.NIcJ28EOWf2OYuen9kg29ocvqjt9OM8uk6k2NAA64hM', globalAdmin=false}
+
+2025-08-05 22:01:52,438 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:01:52,438 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:02:22,447 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:02:22,449 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:02:47,935 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:02:48,009 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDU2OH0.1wRg2enzdZoOXtJ23NjX6okhPL22llrjUjuOLE1jwO8', globalAdmin=false}
+
+2025-08-05 22:02:48,025 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:02:48,084 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDU2OH0.1wRg2enzdZoOXtJ23NjX6okhPL22llrjUjuOLE1jwO8', globalAdmin=false}
+
+2025-08-05 22:02:52,460 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:02:52,461 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:03:22,469 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:03:22,470 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:03:48,110 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:03:48,186 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDYyOH0.n8pdiGWOPSoU2GR7KG14b2cdg04VFrb5X7v2nQtPTtE', globalAdmin=false}
+
+2025-08-05 22:03:48,203 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:03:48,263 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDYyOH0.n8pdiGWOPSoU2GR7KG14b2cdg04VFrb5X7v2nQtPTtE', globalAdmin=false}
+
+2025-08-05 22:03:52,485 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:03:52,486 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:04:22,500 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:04:22,500 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:04:48,301 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:04:48,376 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDY4OH0.V9O2gzUuolhry5tgi5_Cu5UmcQx2G5h1_hnb_Zh0SmA', globalAdmin=false}
+
+2025-08-05 22:04:48,392 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:04:48,452 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDY4OH0.V9O2gzUuolhry5tgi5_Cu5UmcQx2G5h1_hnb_Zh0SmA', globalAdmin=false}
+
+2025-08-05 22:04:52,512 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:04:52,513 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:05:22,528 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:05:22,528 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:05:48,482 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:05:48,555 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDc0OH0.B9CMlx1anTFJdQ-95af9kH1aY6bcUfjA0uyiryn98Tw', globalAdmin=false}
+
+2025-08-05 22:05:48,573 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:05:48,633 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDc0OH0.B9CMlx1anTFJdQ-95af9kH1aY6bcUfjA0uyiryn98Tw', globalAdmin=false}
+
+2025-08-05 22:05:52,539 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:05:52,540 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:05:56,952 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:05:57,015 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDc1N30.eE1Zy-VhTd5qqnRsCVNgDHnbQFuCw2mC2Pe1jptsUg4', globalAdmin=false}
+
+2025-08-05 22:05:57,030 DEBUG auth start, request: PUT /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:05:57,090 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDc1N30.eE1Zy-VhTd5qqnRsCVNgDHnbQFuCw2mC2Pe1jptsUg4', globalAdmin=false}
+
+2025-08-05 22:06:22,557 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:06:22,558 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:06:48,670 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:06:48,746 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDgwOH0.4DoDz0rRxHHZgJ-gvJzzgNVs_XPOjUAIOKmz2Wc4PvI', globalAdmin=false}
+
+2025-08-05 22:06:48,766 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:06:48,827 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDgwOH0.4DoDz0rRxHHZgJ-gvJzzgNVs_XPOjUAIOKmz2Wc4PvI', globalAdmin=false}
+
+2025-08-05 22:06:52,577 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:06:52,578 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:07:22,597 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:07:22,599 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:07:48,864 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:07:48,939 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDg2OH0.eeqOjQUdhGbYy_TGm2yf2qmRU_Pe4auHtGU8NVO2lzY', globalAdmin=false}
+
+2025-08-05 22:07:48,955 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:07:49,017 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDg2OX0.5EUXExEXmRv9t-5j9EXGKXvPv21iQBUb3DBk3jJE1b8', globalAdmin=false}
+
+2025-08-05 22:07:52,614 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:07:52,614 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:08:22,626 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:08:22,626 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:08:33,998 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:08:33,998 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:08:34,037 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 22:08:34,037 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:08:34,949 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:08:34,950 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:08:34,975 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 22:08:34,975 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:08:38,876 DEBUG auth start, request: DELETE /v3/console/ns/service
+
+2025-08-05 22:08:38,877 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:08:43,829 DEBUG auth start, request: GET /v3/console/ns/service
+
+2025-08-05 22:08:43,829 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:08:43,845 DEBUG auth start, request: GET /v3/console/ns/instance/list
+
+2025-08-05 22:08:43,845 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:08:49,050 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:08:49,123 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDkyOX0.1SwlwT6uQbWkwZARlSe8BkdFTr2NvP2jsGE0iuTyVUg', globalAdmin=false}
+
+2025-08-05 22:08:49,149 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:08:49,209 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDkyOX0.1SwlwT6uQbWkwZARlSe8BkdFTr2NvP2jsGE0iuTyVUg', globalAdmin=false}
+
+2025-08-05 22:08:49,271 DEBUG auth start, request: GET /v3/console/ns/service/selector/types
+
+2025-08-05 22:08:49,271 DEBUG API is identity only, skip validate authority, request: GET /v3/console/ns/service/selector/types
+
+2025-08-05 22:08:52,637 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:08:52,637 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:09:17,802 DEBUG auth start, request: PUT /v3/console/ns/service
+
+2025-08-05 22:09:17,803 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:09:17,828 DEBUG auth start, request: GET /v3/console/ns/service
+
+2025-08-05 22:09:17,829 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:09:22,651 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:09:22,652 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:09:23,873 DEBUG auth start, request: PUT /v3/console/ns/instance
+
+2025-08-05 22:09:23,874 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:09:23,890 DEBUG auth start, request: GET /v3/console/ns/instance/list
+
+2025-08-05 22:09:23,891 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='internet-search-agent', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:09:49,243 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:09:49,319 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDk4OX0.cp39SGCVV3RB2EPLVCczVs2uYqz2N6wtcqdmuPsYNtA', globalAdmin=false}
+
+2025-08-05 22:09:49,337 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:09:49,397 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMDk4OX0.cp39SGCVV3RB2EPLVCczVs2uYqz2N6wtcqdmuPsYNtA', globalAdmin=false}
+
+2025-08-05 22:09:52,668 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:09:52,669 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:10:22,685 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:10:22,686 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:10:49,425 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:10:49,492 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTA0OX0.nyCY0YmKn8lfHKYfi6UBvTAjE4LiYV4AXvN-bAHT7RQ', globalAdmin=false}
+
+2025-08-05 22:10:49,508 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:10:49,570 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTA0OX0.nyCY0YmKn8lfHKYfi6UBvTAjE4LiYV4AXvN-bAHT7RQ', globalAdmin=false}
+
+2025-08-05 22:10:52,704 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:10:52,705 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:11:22,720 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:11:22,721 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:11:49,607 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:11:49,681 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTEwOX0.2r0aI6vJkFntAdwxGe1ng0yvxn2mb-uHGO-DK1MMENQ', globalAdmin=false}
+
+2025-08-05 22:11:49,697 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:11:49,756 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTEwOX0.2r0aI6vJkFntAdwxGe1ng0yvxn2mb-uHGO-DK1MMENQ', globalAdmin=false}
+
+2025-08-05 22:11:52,736 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:11:52,736 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:12:18,759 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 22:12:18,760 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:12:22,753 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:12:22,754 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:12:49,793 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:12:49,869 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTE2OX0.4Hl1dxO36kFD-23y0LS-JAFWQ5AtyWKB5gBCxL5w5Bw', globalAdmin=false}
+
+2025-08-05 22:12:49,884 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:12:49,944 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTE2OX0.4Hl1dxO36kFD-23y0LS-JAFWQ5AtyWKB5gBCxL5w5Bw', globalAdmin=false}
+
+2025-08-05 22:12:52,770 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:12:52,771 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:13:22,787 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:13:22,787 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:13:49,980 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:13:50,056 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTIzMH0.Yi1BtNDY1KJo-HQu5PSK7Caota3q79hC8kVNnA9B_iI', globalAdmin=false}
+
+2025-08-05 22:13:50,074 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:13:50,135 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTIzMH0.Yi1BtNDY1KJo-HQu5PSK7Caota3q79hC8kVNnA9B_iI', globalAdmin=false}
+
+2025-08-05 22:13:52,800 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:13:52,800 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:14:22,812 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:14:22,813 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:14:50,167 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:14:50,242 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTI5MH0.JU8LuCety6qyRmeiGFQjgILQfyxwj4PwOmMakeX5nMU', globalAdmin=false}
+
+2025-08-05 22:14:50,258 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:14:50,319 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTI5MH0.JU8LuCety6qyRmeiGFQjgILQfyxwj4PwOmMakeX5nMU', globalAdmin=false}
+
+2025-08-05 22:14:52,825 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:14:52,826 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:15:22,828 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:15:22,829 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:15:50,340 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:15:50,414 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTM1MH0._rfsvqI1Kn2GBprsfxFl3MVMGUtXsEZQ9QJ35hP-Jhw', globalAdmin=false}
+
+2025-08-05 22:15:50,430 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:15:50,489 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTM1MH0._rfsvqI1Kn2GBprsfxFl3MVMGUtXsEZQ9QJ35hP-Jhw', globalAdmin=false}
+
+2025-08-05 22:15:52,835 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:15:52,835 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:16:22,845 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:16:22,846 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:16:50,525 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:16:50,600 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTQxMH0.vqBKsk8t-abU-Pbzjt6D8k2Z1aRrt4lCpV_tIXfCqX8', globalAdmin=false}
+
+2025-08-05 22:16:50,615 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:16:50,675 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTQxMH0.vqBKsk8t-abU-Pbzjt6D8k2Z1aRrt4lCpV_tIXfCqX8', globalAdmin=false}
+
+2025-08-05 22:16:52,859 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:16:52,860 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:17:22,875 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:17:22,875 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:17:50,706 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:17:50,773 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTQ3MH0.x9ZLBdM3MXRWOFOUizPF7PtcT2kyQ9QfxqnmwtCZCAM', globalAdmin=false}
+
+2025-08-05 22:17:50,793 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:17:50,854 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTQ3MH0.x9ZLBdM3MXRWOFOUizPF7PtcT2kyQ9QfxqnmwtCZCAM', globalAdmin=false}
+
+2025-08-05 22:17:52,885 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:17:52,885 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:18:22,893 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:18:22,894 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:18:50,892 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:18:50,964 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTUzMH0.Ii0AnPxtITh3sohSlf2IeYgYbH2uamw5aiMKACX8GfA', globalAdmin=false}
+
+2025-08-05 22:18:50,979 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:18:51,039 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTUzMX0.v04T7hDr4_Nz_IuJZ4ezQ4XN4y0icuk9yS6IY26P8eE', globalAdmin=false}
+
+2025-08-05 22:18:52,905 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:18:52,907 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:19:22,917 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:19:22,917 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:19:51,069 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:19:51,146 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTU5MX0.3BfqcUl9ssM-OWDBt2KUU0K4NUajGso1PPJnOLWuR9c', globalAdmin=false}
+
+2025-08-05 22:19:51,164 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:19:51,228 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTU5MX0.3BfqcUl9ssM-OWDBt2KUU0K4NUajGso1PPJnOLWuR9c', globalAdmin=false}
+
+2025-08-05 22:19:52,930 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:19:52,930 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:20:13,418 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:20:13,481 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTYxM30.l_gUHD2ureoySG3D1XzHY4WBUJLRRhul_UowSyTKZqk', globalAdmin=false}
+
+2025-08-05 22:20:13,501 DEBUG auth start, request: PUT /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:20:13,561 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=w}}', action='w'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTYxM30.l_gUHD2ureoySG3D1XzHY4WBUJLRRhul_UowSyTKZqk', globalAdmin=false}
+
+2025-08-05 22:20:22,943 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:20:22,943 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:20:51,268 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:20:51,343 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTY1MX0.vKyQomqBnTaI-5V-Pw5gF1ZNtf9kZEFtAv4SLViONxQ', globalAdmin=false}
+
+2025-08-05 22:20:51,358 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:20:51,418 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTY1MX0.vKyQomqBnTaI-5V-Pw5gF1ZNtf9kZEFtAv4SLViONxQ', globalAdmin=false}
+
+2025-08-05 22:20:52,956 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:20:52,956 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:21:22,966 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:21:22,966 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:21:51,454 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:21:51,530 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTcxMX0.7S7mca4Tt16_YS7sQYahMk4-y2uqVP2wOGmNNyjkwa0', globalAdmin=false}
+
+2025-08-05 22:21:51,547 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:21:51,607 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTcxMX0.7S7mca4Tt16_YS7sQYahMk4-y2uqVP2wOGmNNyjkwa0', globalAdmin=false}
+
+2025-08-05 22:21:52,978 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:21:52,978 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:22:22,986 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:22:22,986 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:22:51,644 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:22:51,719 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTc3MX0.SdZq1aR5q5gFQknTLrsSMgyRCQ_Qx3d71F6im75Adb4', globalAdmin=false}
+
+2025-08-05 22:22:51,735 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:22:51,795 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTc3MX0.SdZq1aR5q5gFQknTLrsSMgyRCQ_Qx3d71F6im75Adb4', globalAdmin=false}
+
+2025-08-05 22:22:52,993 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:22:52,994 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:23:23,004 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:23:23,005 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:23:51,833 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:23:51,908 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTgzMX0.X-3RYDgLPjeO9yOw0Pdl-yyPW5XDmCPMjozX-FpFlVQ', globalAdmin=false}
+
+2025-08-05 22:23:51,926 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:23:51,985 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTgzMX0.X-3RYDgLPjeO9yOw0Pdl-yyPW5XDmCPMjozX-FpFlVQ', globalAdmin=false}
+
+2025-08-05 22:23:53,021 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:23:53,022 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:24:23,039 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:24:23,039 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:24:52,017 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:24:52,094 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTg5Mn0.y9sp2MjTb-wtH5GJlKUKT79eXRWUm79XUNRSCHD2Jc8', globalAdmin=false}
+
+2025-08-05 22:24:52,111 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:24:52,170 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTg5Mn0.y9sp2MjTb-wtH5GJlKUKT79eXRWUm79XUNRSCHD2Jc8', globalAdmin=false}
+
+2025-08-05 22:24:53,056 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:24:53,057 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:25:23,071 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:25:23,071 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:25:52,210 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:25:52,286 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTk1Mn0.jKORNJ92y29ZMeBMba348jVkc-vAJg-Eq4Q3x-SnEuM', globalAdmin=false}
+
+2025-08-05 22:25:52,300 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:25:52,360 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMTk1Mn0.jKORNJ92y29ZMeBMba348jVkc-vAJg-Eq4Q3x-SnEuM', globalAdmin=false}
+
+2025-08-05 22:25:53,083 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:25:53,084 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:26:23,100 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:26:23,100 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxODM5NX0.BjwOIYyncqtrW-U4esBL7RZ41w_qk0AGzKdGxKS2H9w', globalAdmin=false}
+
+2025-08-05 22:27:50,794 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:27:50,873 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjA3MH0.qSyiix2NZS7BpfxwTo-yTSj6TxS8-bejqdjGzSw65_U', globalAdmin=false}
+
+2025-08-05 22:27:50,935 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:27:51,001 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjA3MX0.98zu_Vk1fEa2EaMjOOcUNExDGTC8kZMCC3zY7izMrEg', globalAdmin=false}
+
+2025-08-05 22:28:51,555 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:28:51,627 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjEzMX0.qvIc45r4JSHXBvWg4ApvjAQIV5KJ-YkFRFpt4RvlIm4', globalAdmin=false}
+
+2025-08-05 22:28:51,645 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:28:51,705 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjEzMX0.qvIc45r4JSHXBvWg4ApvjAQIV5KJ-YkFRFpt4RvlIm4', globalAdmin=false}
+
+2025-08-05 22:29:26,427 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:29:26,429 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:29:26,457 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 22:29:26,458 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:29:28,373 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:29:28,374 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:29:28,392 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 22:29:28,393 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:29:34,731 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:29:34,731 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjE3NH0.yP8CxzpErUrpzkT3RyQiAU1i9LFr5-MI-Z60NBiaEoc', globalAdmin=false}
+
+2025-08-05 22:29:38,476 DEBUG auth start, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:29:38,477 DEBUG API is identity only, skip validate authority, request: GET /v3/console/core/namespace/list
+
+2025-08-05 22:29:38,501 DEBUG auth start, request: GET /v3/console/ns/service/list
+
+2025-08-05 22:29:38,502 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='', name='', type='naming', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQxOTczM30.SGlC6kQgY3Fvb6Ow3ezmGU_SYfF4aWP5y6KxfW7l6yI', globalAdmin=false}
+
+2025-08-05 22:29:51,742 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp/list
+
+2025-08-05 22:29:51,817 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjE5MX0.Ers_loirJ74eKtht8TKZyQY8HuwE7BzvZt50HODRI-4', globalAdmin=false}
+
+2025-08-05 22:29:51,835 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:29:51,895 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjE5MX0.Ers_loirJ74eKtht8TKZyQY8HuwE7BzvZt50HODRI-4', globalAdmin=false}
+
+2025-08-05 22:30:04,752 DEBUG auth start, request: GET /nacos/v3/admin/ai/mcp
+
+2025-08-05 22:30:04,754 DEBUG auth permission: Permission{resource='Resource{namespaceId='public', group='DEFAULT_GROUP', name='forex-tool', type='ai', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTc1NDQyMjE3NH0.yP8CxzpErUrpzkT3RyQiAU1i9LFr5-MI-Z60NBiaEoc', globalAdmin=false}
+

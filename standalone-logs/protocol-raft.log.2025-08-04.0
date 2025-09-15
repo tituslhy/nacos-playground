@@ -1,0 +1,28 @@
+2025-08-04 22:33:04,152 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["dd899bcf4ce0:7848"],"strictMode":false,"selfMember":"dd899bcf4ce0:7848"}
+
+2025-08-04 22:33:04,236 INFO ========= The raft protocol is starting... =========
+
+2025-08-04 22:33:04,245 INFO ========= The raft protocol start finished... =========
+
+2025-08-04 22:33:04,261 INFO create raft group : naming_persistent_service_v2
+
+2025-08-04 22:33:04,418 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='dd899bcf4ce0:7848', term=1, raftClusterInfo=[dd899bcf4ce0:7848]}
+
+2025-08-04 22:33:04,422 INFO create raft group : naming_persistent_service
+
+2025-08-04 22:33:04,438 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='dd899bcf4ce0:7848', term=1, raftClusterInfo=[dd899bcf4ce0:7848]}
+
+2025-08-04 22:33:04,449 INFO create raft group : naming_instance_metadata
+
+2025-08-04 22:33:04,471 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='dd899bcf4ce0:7848', term=1, raftClusterInfo=[dd899bcf4ce0:7848]}
+
+2025-08-04 22:33:04,473 INFO create raft group : naming_service_metadata
+
+2025-08-04 22:33:04,490 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='dd899bcf4ce0:7848', term=1, raftClusterInfo=[dd899bcf4ce0:7848]}
+
+2025-08-04 22:33:04,566 INFO create raft group : lock_acquire_service_v2
+
+2025-08-04 22:33:04,584 INFO This Raft event changes : RaftEvent{groupId='lock_acquire_service_v2', leader='dd899bcf4ce0:7848', term=1, raftClusterInfo=[dd899bcf4ce0:7848]}
+
+2025-08-04 22:56:34,786 INFO Client registered. service=Service{namespace='public', group='DEFAULT_GROUP', name='internet-search-agent', ephemeral=false, revision=1}, clientId=127.0.0.1:8008#false, instance=Instance{instanceId='127.0.0.1#8008#None#DEFAULT_GROUP@@internet-search-agent', ip='127.0.0.1', port=8008, weight=1.0, healthy=true, enabled=true, ephemeral=false, clusterName='None', serviceName='DEFAULT_GROUP@@internet-search-agent', metadata={protocol=acp}}
+

@@ -1,0 +1,1218 @@
+2025-08-05 06:51:29,801 WARN clearHistoryConfig get scheduled
+
+2025-08-05 06:51:29,809 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 06:51:29,809 WARN clearConfigHistory, getBeforeStamp:2025-07-06 06:51:29.0, pageSize:1000
+
+2025-08-05 06:51:29,812 WARN history config cleaner successfully
+
+2025-08-05 06:51:30,152 INFO [capacityManagement] start correct usage
+
+2025-08-05 06:51:30,366 INFO [capacityManagement] end correct usage, cost: 0.213697459s
+
+2025-08-05 06:58:10,231 WARN No mapping for GET /nacos/index.html
+
+2025-08-05 06:58:10,233 WARN No endpoint GET /nacos/index.html.
+
+2025-08-05 07:01:29,814 WARN clearHistoryConfig get scheduled
+
+2025-08-05 07:01:29,814 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 07:01:29,815 WARN clearConfigHistory, getBeforeStamp:2025-07-06 07:01:29.0, pageSize:1000
+
+2025-08-05 07:01:29,818 WARN history config cleaner successfully
+
+2025-08-05 07:01:30,364 INFO [capacityManagement] start correct usage
+
+2025-08-05 07:01:30,575 INFO [capacityManagement] end correct usage, cost: 0.210679583s
+
+2025-08-05 07:11:29,872 WARN clearHistoryConfig get scheduled
+
+2025-08-05 07:11:29,873 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 07:11:29,873 WARN clearConfigHistory, getBeforeStamp:2025-07-06 07:11:29.0, pageSize:1000
+
+2025-08-05 07:11:29,876 WARN history config cleaner successfully
+
+2025-08-05 07:11:30,628 INFO [capacityManagement] start correct usage
+
+2025-08-05 07:11:30,845 INFO [capacityManagement] end correct usage, cost: 0.216614959s
+
+2025-08-05 19:40:29,344 WARN clearHistoryConfig get scheduled
+
+2025-08-05 19:40:29,345 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 19:40:29,346 WARN clearConfigHistory, getBeforeStamp:2025-07-06 19:40:29.0, pageSize:1000
+
+2025-08-05 19:40:29,347 WARN history config cleaner successfully
+
+2025-08-05 19:40:30,321 INFO [capacityManagement] start correct usage
+
+2025-08-05 19:40:30,535 INFO [capacityManagement] end correct usage, cost: 0.213194292s
+
+2025-08-05 21:41:30,464 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:30,465 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:30,465 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:30,465 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:30,465 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:30,465 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:30,465 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:30,465 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:30,466 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:30,466 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:30,468 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:30,468 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:30,468 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:30,468 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:30,468 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:30,469 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:30,469 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:30,469 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:30,469 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:30,469 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:30,470 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:30,470 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:30,470 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:30,470 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:30,470 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:30,470 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:30,470 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:30,471 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:30,471 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:30,471 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:30,471 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:30,472 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:30,472 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:30,472 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:30,472 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:30,472 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:30,472 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:30,472 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:30,472 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:30,473 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:30,473 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:30,473 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:30,473 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:30,474 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:30,474 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:30,474 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:30,474 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:30,474 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:30,474 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:30,475 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:30,475 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:30,475 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:30,475 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:30,475 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:30,475 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:30,475 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:30,475 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:30,476 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:30,476 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:30,476 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:34,511 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:34,512 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:34,512 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:34,513 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:34,513 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:34,514 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:34,514 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:34,514 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:34,514 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:34,516 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:41:43,631 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:41:43,631 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:41:43,631 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:41:43,632 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:41:43,632 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:41:43,632 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:41:43,632 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:41:43,632 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:41:43,633 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:41:43,633 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:44:24,732 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 21:44:24,732 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 21:44:24,732 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 21:44:24,733 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 21:44:24,733 INFO Get NamingClient config from env, ClientConfig{clientExpiredTime=180000}
+
+2025-08-05 21:44:24,733 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=30000}
+
+2025-08-05 21:44:24,733 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 21:44:24,734 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 21:44:24,734 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 21:44:24,735 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 21:48:32,348 WARN clearHistoryConfig get scheduled
+
+2025-08-05 21:48:32,348 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 21:48:32,349 WARN clearConfigHistory, getBeforeStamp:2025-07-06 21:48:32.0, pageSize:1000
+
+2025-08-05 21:48:32,351 WARN history config cleaner successfully
+
+2025-08-05 21:48:33,538 INFO [capacityManagement] start correct usage
+
+2025-08-05 21:48:33,754 INFO [capacityManagement] end correct usage, cost: 0.214555625s
+
+2025-08-05 21:49:28,963 WARN There are no [com.alibaba.nacos.naming.core.v2.event.metadata.InfoChangeEvent.InstanceInfoChangeEvent] publishers for this event, please register
+
+2025-08-05 21:49:34,491 WARN There are no [com.alibaba.nacos.naming.core.v2.event.metadata.InfoChangeEvent.InstanceInfoChangeEvent] publishers for this event, please register
+
+2025-08-05 21:50:03,807 ERROR got exception. service delete failure Service DEFAULT_GROUP@@internet-search-agent is not empty, can't be delete. Please unregister instance first
+
+2025-08-05 21:50:23,516 ERROR got exception. service delete failure Service DEFAULT_GROUP@@internet-search-agent is not empty, can't be delete. Please unregister instance first
+
+2025-08-05 21:50:31,106 ERROR CONSOLE /.well-known/appspecific/com.chrome.devtools.json
+
+org.springframework.web.servlet.resource.NoResourceFoundException: No static resource .well-known/appspecific/com.chrome.devtools.json.
+	at org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)
+	at org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.console.filter.XssFilter.doFilterInternal(XssFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.paramcheck.ParamCheckerFilter.doFilter(ParamCheckerFilter.java:67)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.auth.AbstractWebAuthFilter.doFilter(AbstractWebAuthFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340)
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:114)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-08-05 21:50:31,311 ERROR CONSOLE /console-ui/public/min-maps/vs/editor/editor.main.nls.zh-cn.js.map
+
+org.springframework.web.servlet.resource.NoResourceFoundException: No static resource console-ui/public/min-maps/vs/editor/editor.main.nls.zh-cn.js.map.
+	at org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)
+	at org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.console.filter.XssFilter.doFilterInternal(XssFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.paramcheck.ParamCheckerFilter.doFilter(ParamCheckerFilter.java:67)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.auth.AbstractWebAuthFilter.doFilter(AbstractWebAuthFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340)
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:114)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-08-05 21:50:31,311 ERROR CONSOLE /console-ui/public/min-maps/vs/editor/editor.main.js.map
+
+org.springframework.web.servlet.resource.NoResourceFoundException: No static resource console-ui/public/min-maps/vs/editor/editor.main.js.map.
+	at org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)
+	at org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.console.filter.XssFilter.doFilterInternal(XssFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.paramcheck.ParamCheckerFilter.doFilter(ParamCheckerFilter.java:67)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.auth.AbstractWebAuthFilter.doFilter(AbstractWebAuthFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340)
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:114)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-08-05 21:50:31,312 ERROR CONSOLE /console-ui/min-maps/vs/loader.js.map
+
+org.springframework.web.servlet.resource.NoResourceFoundException: No static resource console-ui/min-maps/vs/loader.js.map.
+	at org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)
+	at org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.console.filter.XssFilter.doFilterInternal(XssFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.paramcheck.ParamCheckerFilter.doFilter(ParamCheckerFilter.java:67)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at com.alibaba.nacos.core.auth.AbstractWebAuthFilter.doFilter(AbstractWebAuthFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:479)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:340)
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:82)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:128)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:227)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:240)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:323)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:224)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:137)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:114)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:670)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-08-05 21:50:41,425 ERROR got exception. service delete failure Service DEFAULT_GROUP@@internet-search-agent is not empty, can't be delete. Please unregister instance first
+
+2025-08-05 21:58:32,357 WARN clearHistoryConfig get scheduled
+
+2025-08-05 21:58:32,358 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 21:58:32,359 WARN clearConfigHistory, getBeforeStamp:2025-07-06 21:58:32.0, pageSize:1000
+
+2025-08-05 21:58:32,361 WARN history config cleaner successfully
+
+2025-08-05 21:58:33,757 INFO [capacityManagement] start correct usage
+
+2025-08-05 21:58:33,967 INFO [capacityManagement] end correct usage, cost: 0.209362209s
+
+2025-08-05 22:05:57,092 INFO [CapacityManagement] Intercepting publishConfig operation for dataId: 62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-tools.json, group: mcp-tools, namespaceId: public
+
+2025-08-05 22:05:57,100 INFO [CapacityManagement] Intercepting publishConfig operation for dataId: 62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-server.json, group: mcp-server, namespaceId: public
+
+2025-08-05 22:05:57,105 INFO [CapacityManagement] Intercepting publishConfig operation for dataId: 62a603ba-51f0-465b-827b-349041ec4481-mcp-versions.json, group: mcp-server-versions, namespaceId: public
+
+2025-08-05 22:08:32,366 WARN clearHistoryConfig get scheduled
+
+2025-08-05 22:08:32,366 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 22:08:32,367 WARN clearConfigHistory, getBeforeStamp:2025-07-06 22:08:32.0, pageSize:1000
+
+2025-08-05 22:08:32,370 WARN history config cleaner successfully
+
+2025-08-05 22:08:33,969 INFO [capacityManagement] start correct usage
+
+2025-08-05 22:08:34,176 INFO [capacityManagement] end correct usage, cost: 0.206533375s
+
+2025-08-05 22:08:38,880 ERROR got exception. service delete failure Service DEFAULT_GROUP@@internet-search-agent is not empty, can't be delete. Please unregister instance first
+
+2025-08-05 22:09:17,816 WARN There are no [com.alibaba.nacos.naming.core.v2.event.metadata.InfoChangeEvent.ServiceInfoChangeEvent] publishers for this event, please register
+
+2025-08-05 22:09:23,879 WARN There are no [com.alibaba.nacos.naming.core.v2.event.metadata.InfoChangeEvent.InstanceInfoChangeEvent] publishers for this event, please register
+
+2025-08-05 22:18:32,360 WARN clearHistoryConfig get scheduled
+
+2025-08-05 22:18:32,361 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-08-05 22:18:32,361 WARN clearConfigHistory, getBeforeStamp:2025-07-06 22:18:32.0, pageSize:1000
+
+2025-08-05 22:18:32,363 WARN history config cleaner successfully
+
+2025-08-05 22:18:34,169 INFO [capacityManagement] start correct usage
+
+2025-08-05 22:18:34,384 INFO [capacityManagement] end correct usage, cost: 0.214668208s
+
+2025-08-05 22:20:13,562 INFO [CapacityManagement] Intercepting publishConfig operation for dataId: 62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-tools.json, group: mcp-tools, namespaceId: public
+
+2025-08-05 22:20:13,565 INFO [CapacityManagement] Intercepting publishConfig operation for dataId: 62a603ba-51f0-465b-827b-349041ec4481-1.9.2-mcp-server.json, group: mcp-server, namespaceId: public
+
+2025-08-05 22:20:13,567 INFO [CapacityManagement] Intercepting publishConfig operation for dataId: 62a603ba-51f0-465b-827b-349041ec4481-mcp-versions.json, group: mcp-server-versions, namespaceId: public
+
+2025-08-05 22:26:42,570 INFO [HttpClientBeanHolder] Start destroying common HttpClient
+
+2025-08-05 22:26:42,570 INFO [NotifyCenter] Start destroying Publisher
+
+2025-08-05 22:26:42,570 WARN [WatchFileCenter] start close
+
+2025-08-05 22:26:42,570 INFO [NotifyCenter] Completed destruction of Publisher
+
+2025-08-05 22:26:42,571 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /home/nacos/conf
+
+2025-08-05 22:26:42,572 INFO [HttpClientBeanHolder] Completed destruction of HttpClient
+
+2025-08-05 22:26:42,572 WARN [WatchFileCenter] already closed
+
+2025-08-05 22:26:42,573 INFO [ThreadPoolManager] Start destroying ThreadPool
+
+2025-08-05 22:26:42,574 INFO Commencing graceful shutdown. Waiting for active requests to complete
+
+2025-08-05 22:26:42,579 INFO Graceful shutdown complete
+
+2025-08-05 22:26:42,586 INFO Commencing graceful shutdown. Waiting for active requests to complete
+
+2025-08-05 22:26:42,586 INFO Graceful shutdown complete
+
+2025-08-05 22:26:51,202 INFO Starting NacosBootstrap v3.0.2 using Java 17.0.15 with PID 1 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2025-08-05 22:26:51,202 INFO The following 1 profile is active: "standalone"
+
+2025-08-05 22:26:51,268 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2025-08-05 22:26:51,269 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2025-08-05 22:26:51,269 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2025-08-05 22:26:51,334 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.bootstrap.NacosBootstrap to avoid duplicate scan
+
+2025-08-05 22:26:51,336 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.Nacos to avoid duplicate scan
+
+2025-08-05 22:26:51,337 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.console.NacosConsole to avoid duplicate scan
+
+2025-08-05 22:26:51,363 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2025-08-05 22:26:51,436 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2025-08-05 22:26:51,452 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2025-08-05 22:26:51,472 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2025-08-05 22:26:51,473 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,474 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,474 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,474 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,474 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,474 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,475 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,475 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,475 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,475 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,475 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,476 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,476 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,476 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,476 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,477 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,477 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,477 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,478 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,479 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,479 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,479 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,479 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,479 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,479 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,480 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,481 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,481 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,481 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,481 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,482 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,483 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,484 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,484 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-08-05 22:26:51,641 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.prometheus.PrometheusApp to avoid duplicate scan
+
+2025-08-05 22:26:51,642 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.NacosServerWebApplication to avoid duplicate scan
+
+2025-08-05 22:26:51,643 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.mcpregistry.NacosMcpRegistry to avoid duplicate scan
+
+2025-08-05 22:26:52,200 INFO Nacos Server is starting...
+
+2025-08-05 22:26:52,373 INFO HikariPool-1 - Starting...
+
+2025-08-05 22:26:52,388 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2025-08-05 22:26:52,582 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2025-08-05 22:26:52,584 INFO HikariPool-1 - Start completed.
+
+2025-08-05 22:26:52,730 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoBetaMapperByMySql) datasource(mysql) tableName(config_info_beta) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoMapperByMySql) datasource(mysql) tableName(config_info) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoTagMapperByMySql) datasource(mysql) tableName(config_info_tag) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoGrayMapperByMySql) datasource(mysql) tableName(config_info_gray) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigTagsRelationMapperByMySql) datasource(mysql) tableName(config_tags_relation) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.HistoryConfigInfoMapperByMySql) datasource(mysql) tableName(his_config_info) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantInfoMapperByMySql) datasource(mysql) tableName(tenant_info) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantCapacityMapperByMySql) datasource(mysql) tableName(tenant_capacity) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.GroupCapacityMapperByMysql) datasource(mysql) tableName(group_capacity) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigMigrateMapperByMysql) datasource(mysql) tableName(migrate_config) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoBetaMapperByDerby) datasource(derby) tableName(config_info_beta) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoMapperByDerby) datasource(derby) tableName(config_info) successfully.
+
+2025-08-05 22:26:52,731 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagMapperByDerby) datasource(derby) tableName(config_info_tag) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoGrayMapperByDerby) datasource(derby) tableName(config_info_gray) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagsRelationMapperByDerby) datasource(derby) tableName(config_tags_relation) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.HistoryConfigInfoMapperByDerby) datasource(derby) tableName(his_config_info) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantInfoMapperByDerby) datasource(derby) tableName(tenant_info) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantCapacityMapperByDerby) datasource(derby) tableName(tenant_capacity) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.GroupCapacityMapperByDerby) datasource(derby) tableName(group_capacity) successfully.
+
+2025-08-05 22:26:52,732 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigMigrateMapperByDerby) datasource(derby) tableName(migrate_config) successfully.
+
+2025-08-05 22:26:52,783 INFO ConfigQueryHandlerChain has been initialized successfully with chain: nacos
+
+2025-08-05 22:26:52,926 INFO Nacos-related cluster resource initialization
+
+2025-08-05 22:26:52,930 INFO Load com.alibaba.nacos.core.ability.RemoteAbilityInitializer for ServerAbilityInitializer
+
+2025-08-05 22:26:52,930 INFO Load com.alibaba.nacos.naming.ability.NamingAbilityInitializer for ServerAbilityInitializer
+
+2025-08-05 22:26:52,934 INFO The cluster resource is initialized
+
+2025-08-05 22:26:53,007 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-08-05 22:26:53,055 INFO [migrate] start migrate config namespace
+
+2025-08-05 22:26:53,064 INFO [migrate] migrating config namespace from empty to public, finished:0
+
+2025-08-05 22:26:53,076 INFO [migrate] syncing config namespace from empty to public, finished:0
+
+2025-08-05 22:26:53,077 INFO [migrate] syncing config namespace from public to empty, finished:0
+
+2025-08-05 22:26:53,082 INFO [migrate] migrating config gray namespace from empty to public, finished:0
+
+2025-08-05 22:26:53,087 INFO [migrate] syncing config gray namespace from empty to public, finished:0
+
+2025-08-05 22:26:53,088 INFO [migrate] syncing config gray namespace from public to empty, finished:0
+
+2025-08-05 22:26:53,088 INFO [migrate] finish migrate config namespacetotal time taken: 81 ms
+
+2025-08-05 22:26:53,125 INFO [ConfigCacheFactoryDelegate] Matched ConfigCacheFactory not found, Load Default NacosConfigCacheFactory successfully.
+
+2025-08-05 22:26:53,141 INFO [ConfigCachePostProcessorDelegate] Matched ConfigCachePostProcessor not found, load Default NacosConfigCachePostProcessor successfully
+
+2025-08-05 22:26:53,202 INFO Nacos Server is starting...
+
+2025-08-05 22:26:54,141 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-08-05 22:26:54,202 INFO Nacos Server is starting...
+
+2025-08-05 22:26:54,207 INFO Ready to get current node abilities...
+
+2025-08-05 22:26:54,209 INFO Ready to initialize current node abilities, support modes: [CLUSTER_CLIENT, SERVER, SDK_CLIENT]
+
+2025-08-05 22:26:54,209 INFO Initialize current abilities finish...
+
+2025-08-05 22:26:54,210 INFO Ready to get current node abilities...
+
+2025-08-05 22:26:54,210 INFO Ready to initialize current node abilities, support modes: [SDK_CLIENT]
+
+2025-08-05 22:26:54,210 INFO Initialize current abilities finish...
+
+2025-08-05 22:26:54,211 INFO [AbilityControlManager] Successfully initialize AbilityControlManager
+
+2025-08-05 22:26:54,214 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-08-05 22:26:54,217 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security'}
+
+2025-08-05 22:26:54,221 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='serverIdentity', serverIdentityValue='security', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-08-05 22:26:54,222 INFO Not found ServerIdentityChecker implementation from SPI, use default.
+
+2025-08-05 22:26:54,741 INFO Creating singleton bean 'healthCheckDelegateV2' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, clientOperationServiceProxy]
+
+2025-08-05 22:26:54,742 INFO Creating singleton bean 'healthCheckExtendProvider' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, clientOperationServiceProxy, healthCheckDelegateV2]
+
+2025-08-05 22:26:54,744 INFO Creating singleton bean 'healthCheckProcessorExtendV2' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, clientOperationServiceProxy, healthCheckDelegateV2]
+
+2025-08-05 22:26:54,746 INFO Creating singleton bean 'httpHealthCheckProcessor' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, clientOperationServiceProxy, healthCheckDelegateV2]
+
+2025-08-05 22:26:54,747 INFO Creating singleton bean 'healthCheckCommonV2' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, clientOperationServiceProxy, healthCheckDelegateV2, httpHealthCheckProcessor]
+
+2025-08-05 22:26:54,748 INFO Creating singleton bean 'persistentHealthStatusSynchronizer' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, healthCheckCommonV2, clientOperationServiceProxy, healthCheckDelegateV2, httpHealthCheckProcessor]
+
+2025-08-05 22:26:54,748 INFO Creating singleton bean 'persistentClientOperationServiceImpl' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [persistentClientOperationServiceImpl, healthOperatorV2Impl, healthCheckCommonV2, clientOperationServiceProxy, healthCheckDelegateV2, httpHealthCheckProcessor, persistentHealthStatusSynchronizer]
+
+2025-08-05 22:26:54,786 INFO Creating singleton bean 'mysqlHealthCheckProcessor' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [operatorV2Impl, switchManager, healthCheckDelegateV2]
+
+2025-08-05 22:26:54,787 INFO Creating singleton bean 'noneHealthCheckProcessorV2' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [operatorV2Impl, switchManager, healthCheckDelegateV2]
+
+2025-08-05 22:26:54,788 INFO Creating singleton bean 'tcpHealthCheckProcessor' in thread "com.alibaba.nacos.naming.health.0" while other thread holds singleton lock for other beans [operatorV2Impl, switchManager, healthCheckDelegateV2]
+
+2025-08-05 22:26:55,140 WARN Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+
+2025-08-05 22:26:55,203 INFO Nacos Server is starting...
+
+2025-08-05 22:26:55,429 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-08-05 22:26:55,431 INFO Get topN config from env, TopNConfig{enabled=true, topNCount=10, internalMs=0}
+
+2025-08-05 22:26:55,571 INFO Started NacosBootstrap in 5.069 seconds (process running for 5.502)
+
+2025-08-05 22:26:55,571 INFO Nacos started successfully in stand alone mode with embedded storage in 5058 ms
+
+2025-08-05 22:26:55,582 INFO Spring Environment's active profiles : [standalone] in standalone mode : true
+
+2025-08-05 22:26:55,600 INFO The following 1 profile is active: "standalone"
+
+2025-08-05 22:26:56,058 WARN Bean 'nacosWebBeanPostProcessorConfiguration' of type [com.alibaba.nacos.server.NacosWebBeanPostProcessorConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosDuplicateSpringBeanPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+
+2025-08-05 22:26:56,186 INFO Tomcat initialized with port 8848 (http)
+
+2025-08-05 22:26:56,193 INFO Starting service [Tomcat]
+
+2025-08-05 22:26:56,193 INFO Starting Servlet engine: [Apache Tomcat/10.1.39]
+
+2025-08-05 22:26:56,206 INFO Initializing Spring embedded WebApplicationContext
+
+2025-08-05 22:26:56,206 INFO Root WebApplicationContext: initialization completed in 602 ms
+
+2025-08-05 22:26:56,314 INFO Get ApiCompatibility config from env, ApiCompatibilityConfig{clientApiCompatibility=true, consoleApiCompatibility=false, adminApiCompatibility=false}
+
+2025-08-05 22:26:56,362 INFO Adding welcome page: class path resource [static/index.html]
+
+2025-08-05 22:26:56,535 INFO Exposing 1 endpoint beneath base path '/actuator'
+
+2025-08-05 22:26:56,555 INFO Tomcat started on port 8848 (http) with context path '/nacos'
+
+2025-08-05 22:26:56,568 INFO Started NacosBootstrap in 0.989 seconds (process running for 6.499)
+
+2025-08-05 22:26:56,568 INFO Nacos Server API started successfully in 989 ms
+
+2025-08-05 22:26:56,572 INFO Spring Environment's active profiles : [standalone] in standalone mode : true
+
+2025-08-05 22:26:56,583 INFO The following 1 profile is active: "standalone"
+
+2025-08-05 22:26:56,710 WARN Bean 'nacosConsoleBeanPostProcessorConfiguration' of type [com.alibaba.nacos.console.config.NacosConsoleBeanPostProcessorConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosDuplicateSpringBeanPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+
+2025-08-05 22:26:56,734 INFO Tomcat initialized with port 8080 (http)
+
+2025-08-05 22:26:56,735 INFO Starting service [Tomcat]
+
+2025-08-05 22:26:56,735 INFO Starting Servlet engine: [Apache Tomcat/10.1.39]
+
+2025-08-05 22:26:56,737 INFO Initializing Spring embedded WebApplicationContext
+
+2025-08-05 22:26:56,737 INFO Root WebApplicationContext: initialization completed in 153 ms
+
+2025-08-05 22:26:56,792 INFO Adding welcome page: class path resource [static/index.html]
+
+2025-08-05 22:26:56,889 INFO Exposing 1 endpoint beneath base path '/actuator'
+
+2025-08-05 22:26:56,897 INFO Tomcat started on port 8080 (http) with context path '/'
+
+2025-08-05 22:26:56,901 INFO Started NacosBootstrap in 0.33 seconds (process running for 6.833)
+
+2025-08-05 22:26:56,902 INFO Nacos Console started successfully in 331 ms
+
+2025-08-05 22:26:58,964 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2025-08-05 22:26:58,965 INFO Initializing Servlet 'dispatcherServlet'
+
+2025-08-05 22:26:58,966 INFO Completed initialization in 1 ms
+
+2025-08-05 22:26:58,983 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-08-05 22:27:50,798 INFO [AuthPluginManager] Load AuthPluginService(class com.alibaba.nacos.plugin.auth.impl.NacosAuthPluginService) AuthServiceName(nacos) successfully.
+
+2025-08-05 22:27:50,798 INFO [AuthPluginManager] Load AuthPluginService(class com.alibaba.nacos.plugin.auth.impl.LdapAuthPluginService) AuthServiceName(ldap) successfully.
+
+2025-08-05 22:29:26,247 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2025-08-05 22:29:26,249 INFO Initializing Servlet 'dispatcherServlet'
+
+2025-08-05 22:29:26,252 INFO Completed initialization in 3 ms
+
+2025-08-05 22:30:28,015 INFO [HttpClientBeanHolder] Start destroying common HttpClient
+
+2025-08-05 22:30:28,015 INFO [NotifyCenter] Start destroying Publisher
+
+2025-08-05 22:30:28,015 WARN [WatchFileCenter] start close
+
+2025-08-05 22:30:28,015 INFO [NotifyCenter] Completed destruction of Publisher
+
+2025-08-05 22:30:28,016 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /home/nacos/conf
+
+2025-08-05 22:30:28,016 INFO [ThreadPoolManager] Start destroying ThreadPool
+
+2025-08-05 22:30:28,016 INFO [HttpClientBeanHolder] Completed destruction of HttpClient
+
+2025-08-05 22:30:28,018 INFO Commencing graceful shutdown. Waiting for active requests to complete
+
+2025-08-05 22:30:28,020 WARN [WatchFileCenter] already closed
+
+2025-08-05 22:30:28,020 INFO Graceful shutdown complete
+
+2025-08-05 22:30:28,025 INFO Commencing graceful shutdown. Waiting for active requests to complete
+
+2025-08-05 22:30:28,025 INFO Graceful shutdown complete
+
